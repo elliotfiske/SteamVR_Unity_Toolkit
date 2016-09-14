@@ -1,0 +1,38 @@
+IT Alert: Service disruption :Cybersource Payment System | Global | Disruption    [ ref:_00D00hg76._500701dW2Vx:ref ]
+"\"IT - Alerts\" <italerts@salesforce.com>" <italerts@salesforce.com>
+1471558176000
+IT Alert: Service disruption Cybersource Payment System Global Disruption We are experiencing a service disruption with Help &amp; Training Purchasing system. Incident Details Start Time: 8/18/2016 2:
+IT Alert: Help and Training Purchasing | Global | Disruption
+
+We are experiencing a service disruption with Help & Training
+
+Incident Details
+
+Start Time:
+
+8/18/2016 2:55 PM PDT
+
+Severity:
+
+Sev 1
+
+Impacted Region:
+
+North America; EMEA; APAC
+
+Actions for Resolution:
+
+IT is working with the vendors to resolve the issue.
+
+Get Updates
+
+We will provide updates on the issue every 30 minutes through email and IT Alerts Chatter with #ITAlerts. To check on customer impacting issues, you can visit the salesforce.com Trust site or the Missile Command internal Chatter group.
+
+Have questions or need support?
+
+If you have any questions, post on IT Alerts Chatter group. For assistance with any issues, contact the Global Service desk: local GSD numbers or log a ticket.
+
+We apologize for any inconvenience and are working hard to have you up and running as quickly as possible. Mahalo for your patience!
+
+All content in this message is considered confidential.
+

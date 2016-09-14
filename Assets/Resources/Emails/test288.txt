@@ -1,0 +1,20 @@
+Aloha Access
+Iman Frans <ifrans@salesforce.com>
+1471715465000
+Team, If you&#39;re having issues logging into Aloha and SFDC VPN, there is a widespread issue with 2FA tokens after an update release of Aloha. SFDC engineers are looking to have complete resolution
+Team,
+
+If you’re having issues logging into Aloha and SFDC VPN, there is a
+widespread issue with 2FA tokens after an update release of Aloha.  SFDC
+engineers are looking to have complete resolution by Monday.  If you really
+need to login this weekend, please reach out to us and we can issue a
+temporary token.
+
+Thanks,
+-IT Team
+
+-- 
+*Iman Frans*
+*IT Manager - SalesforceIQ *
+502 Emerson Street | Palo Alto, CA 94301
+Office: 650.461.4544 ext. 1030 | Mobile: 650.646.1693

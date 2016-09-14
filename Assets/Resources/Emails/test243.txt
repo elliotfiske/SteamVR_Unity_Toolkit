@@ -1,0 +1,33 @@
+8/23 Product Review Notes
+Madeleine Gill <madeleine.gill@salesforce.com>
+1472000497000
+Hi Team, Call-outs from today&#39;s product review: Calendar: Follow-up with Dave to see what can be done quickly re: design for GA Log File Attachments: Default: attachments ON UX Update (Outlook):
+Hi Team,
+
+
+Call-outs from today's product review:
+
+Calendar: Follow-up with Dave to see what can be done quickly re: design
+for GA
+
+Log File Attachments: Default: attachments ON
+
+UX Update (Outlook): Everyone to follow-up on redesign!
+
+Multi-DC: Deep dive with Adam on 9/15 to plan next phase
+
+ActivityIQ: Possible follow-up re: prioritization
+
+
+
+
+Full detailed product review notes attached.
+
+Best,
+
+Maddy
+
+​
+ Inbox Product Review
+<https://docs.google.com/a/salesforce.com/document/d/1EnMzZifCoex9Kl9e4NvpkryJ78WJHaHgM0zyKjb7o5A/edit?usp=drive_web>
+​

@@ -1,0 +1,33 @@
+Get your apps and games ready for subscriptions.
+Apple Developer <developer@insideapple.apple.com>
+1472837488000
+With the new auto-renewable subscription capabilities coming to all Apple platforms, you can seamlessly provide your customers with continuous access to your app&#39;s content, services, and features.
+Apple Developer
+
+------------------------
+
+Get your apps and games ready for subscriptions.
+
+With the new auto-renewable subscription capabilities coming to all Apple platforms, you can seamlessly provide your customers with continuous access to your app’s content, services, and features. Apps in all App Store categories are eligible. You will also receive more revenue after one year for qualifying subscriptions, have greater pricing flexibility, and more.
+
+See the updated review guidelines and get details on offering subscriptions in your app or game.
+
+Learn More
+https://developer.apple.com/app-store/subscriptions/
+
+
+------------------------
+Copyright 2016 Apple Inc. 1 Infinite Loop, Cupertino, CA 95014.
+
+All Rights Reserved 
+http://www.apple.com/legal/
+
+Privacy Policy
+http://www.apple.com/legal/privacy/
+
+My Apple ID
+http://appleid.apple.com/
+
+
+If you would prefer not to receive future communications from Apple Developer, you may unsubscribe.
+https://developer.apple.com/unsubscribe/?v=2&la=en_us&a=cyzUTltoh9U2Tvi8r0XFfyy42kp69mfaClvVXv%2BoP9PCnNvhgCqSzCMZLxGKCSzb%2FktI7PyI28dHId6%2Bjobv3J7B3N53qxRESsV53rMmqvKrfHJRQmvJ6Gm%2FAerJEUkBnJxVeTW0A1q%2B0QNfEztLrQ%3D%3D

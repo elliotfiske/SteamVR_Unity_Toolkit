@@ -1,0 +1,37 @@
+Submit your apps today.
+Apple Developer <developer@insideapple.apple.com>
+1473284343000
+The next releases of macOS, iOS, watchOS, and tvOS will soon be in the hands of hundreds of millions of customers around the world. Make sure you&#39;re ready when customers search for new apps and
+Apple Developer 
+
+--------------------------------------------  
+
+The next releases of macOS, iOS, watchOS, and tvOS will soon be in the hands of hundreds of millions of customers around the world. Make sure you’re ready when customers search for new apps and updates that take advantage of the exciting new features available on these platforms. Download the GM seeds,test your apps, and submit them for review.
+https://developer.apple.com/app-store/submissions/ 
+
+macOS + Apps
+With macOS Sierra, Metal enhancements boost your app’s graphics and compute potential. APIs let users interact with your websites and apps in great new ways, including giving customers the security and convenience of Apple Pay.
+https://developer.apple.com/macos/
+
+
+iOS + Apps
+The iOS 10 SDK includes new APIs and services that enable new categories of apps and features. Your apps can now extend to Messages, Siri, Phone, and Maps to provide more engaging functionality than ever before. Coming soon with iPhone 7, you’ll be able
+to take advantage of the new Taptic Engine, incredible performance of the A10 Fusion chip, and beautiful Retina HD display with wide color. And with iPhone 7 Plus your apps can leverage the exciting capabilities of the dual cameras and zoom functionality. 
+https://developer.apple.com/ios/
+
+watchOS + Apps
+With watchOS 3, your favorite apps launch instantly and are easier to access. Take advantage of new performance and navigation enhancements, and tools for fitness, graphics, media, and more, including new GPS capabilities available on Apple Watch Series 2.
+https://developer.apple.com/watchos/
+
+tvOS + Apps
+You can now use ReplayKit to live broadcast game play and PhotoKit to let users share their iCloud Photo Library with your apps on Apple TV. And incorporating Multipeer Connectivity lets users easily connect to your iOS apps.
+https://developer.apple.com/tvos/
+
+
+--------------------------------------------  
+          	
+
+Copyright © 2015 Apple Inc. 1 Infinite Loop, Cupertino, CA 95014.
+All Rights Reserved http://www.apple.com/legal/
+Privacy Policy http://www.apple.com/legal/privacy/
+My Apple ID https://appleid.apple.com/

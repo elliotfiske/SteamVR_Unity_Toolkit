@@ -1,0 +1,119 @@
+Re: Upcoming Crypter Changes
+Seth Voltz <seth@salesforceiq.com>
+1472676994000
+Awesome work, Jón! On Wed, Aug 31, 2016 at 1:45 PM, Qixiu Hu &lt;qhu@salesforce.com&gt; wrote: Thanks so much Jon!! On Aug 31, 2016, at 13:32, Jackson Chung &lt;jackson@salesforceiq.com&gt; wrote: Thx
+Awesome work, Jón!
+
+On Wed, Aug 31, 2016 at 1:45 PM, Qixiu Hu <qhu@salesforce.com> wrote:
+
+> Thanks so much Jon!!
+>
+> On Aug 31, 2016, at 13:32, Jackson Chung <jackson@salesforceiq.com> wrote:
+>
+> Thx Jon!
+>
+> The whole execution is amazing, with clear plan and check, and reports!
+>
+> On 08/31/2016 01:29 PM, Jon Gretarsson wrote:
+>
+> Folks,
+>
+> The upgrade went a little longer than usual, but aside from a few minor
+> hiccups, I'm happy to report that we have successfully laid the foundation
+> for our secure scoped key and credentials store to be responsibly
+> distributed across multiple data centers.  A huge thank you to Jackson for
+> his careful reviews and for being with me during the migration, and also
+> thank you to the folks who attended the slack-up:
+> <mime-attachment.png>
+>
+> I've been monitoring incidents all morning, but I haven't seen any signals
+> to suggest that this migration didn't go spectacularly well.  If you see
+> something, say something and I will follow-up through the #multidc-crypter
+> channel in slack.
+>
+> I encourage folks to read through the incident reports below, if only for
+> developer education reasons.  There is *zero impact to our users*, but it
+> might be fun to read about how the best laid plans of mice and men execute
+> in production.
+>
+> Best,
+>   - Jón Tómas
+>
+> *Incident Reports:*
+> * There's an issue in the database migration, where for the *old* authentication
+> mechanism, our *end_to_end_test* user now has an invalid password.  This
+> means that our end-to-end testing detects failures in the old
+> authentication flow; fortunately, this has been deprecated from production
+> <https://github.com/relateiq/crypter-service/commit/ce3b95454bfc21e2ea5efa56f4a8241c59550a75>
+> since April 30, 2016, so there is *zero impact to our users*.  There is
+> some follow-up work to remove this authentication flow
+> <https://github.com/relateiq/crypter-service/pull/118> from end_to_end
+> integration testing.
+>
+> * Our migration scripts insert two integration-class credentials
+> <https://github.com/relateiq/crypter-service/blob/staging/crypter-server/src/main/resources/shared_migrations.xml#L116-L129>
+> into the database.  These are used during end-to-end testing, in order to
+> verify that test roles perform the authentication song-and-dance, and that authorization
+> properly rejects invalid requests
+> <https://github.com/relateiq/crypter-service/blob/staging/bin/end_to_end_test.sh#L21>.
+> Unfortunately, the default value for this column is staging
+> <https://github.com/relateiq/crypter-service/blob/staging/crypter-server/src/main/resources/shared_migrations.xml#L107> and
+> these credentials were created for the wrong environment during bootstrap.
+> Whoops!  Thankfully, our migration includes copying over data from the old
+> collections in production, and so the net impact of our migration is that
+> there are two extra staging credentials in the new database
+> <https://salesforceiq.slack.com/archives/multidc-crypter/p1472615460000106>,
+> i.e. *zero impact to our users*.  There is a follow-up migration submitted
+> through a pull request
+> <https://github.com/relateiq/crypter-service/pull/122> to address this.
+>
+> * One of our migrations
+> <https://salesforceiq.slack.com/archives/multidc-crypter/p1472614188000076> was
+> broken during the upgrade of our migrator code; a change was submitted
+> <https://github.com/relateiq/crypter-service/commit/5769d1521da67fc7b2cd20fdfdee36e4d7fb182c> to
+> correct the migration to not fail-on-start, but this caused an invalid
+> migration signature error both in staging and in production.  This
+> initially prevented our databases from going read-only, leaving a small
+> window during which developers *could* have submitted a change in
+> credentials or permissions after we thought it had gone read-only; this did
+> not occur.  Otherwise there is *zero impact to our users*.  This issue
+> was addressed via direct database manipulation, but could have been more
+> responsibly addressed by providing a list of acceptable md5s
+> <http://www.liquibase.org/documentation/changeset.html> and has been
+> filed to developer training to address.
+>
+> * There was a brief hiccup at 9:03PM, where some machines were unable to
+> re-authenticate to crypter.  This caused *stale* reads from our
+> *read-only* collections; i.e. *zero impact to our customers*.  The relevant
+> error logs
+> <https://service.sumologic.com/ui/#section/search/3egKIVi1gZJfwCu3qGYgQbGHfue4irCj7ATj1XsK> suggest
+> that this happened on 4 storm machines and 1 web machine; and given that this
+> re-auth flow is memoized
+> <https://github.com/relateiq/crypter-service/blob/e9f2b6608f4bbfe43be2d04713890391c260d987/crypter-client/src/main/java/com/relateiq/crypto/client/AbstractRemoteReader.java#L69-L71> to
+> re-fetch every 5 minutes, the lack of recurring errors suggests the
+> machines recovered gracefully.
+> <mime-attachment.png>
+>
+> On Tue, Aug 30, 2016 at 3:31 PM, Jon Gretarsson <jon@salesforceiq.com>
+> wrote:
+>
+>> Beloved team,
+>>
+>> In anticipation of expanding our data center presence across multiple
+>> continents, I will be moving crypter into a partial-read-only mode
+>> <https://github.com/relateiq/crypter-service/pull/114/files#diff-3cc2d8f7173fd0ee89c59af790df87bbR326>
+>> this afternoon, which I expect to last for the duration of the day.  What
+>> this means to you is that if you are hoping to provision new *roles*, or
+>> assign *new permissions* to existing roles, please abstain for the day.
+>> Or reach out to me directly.
+>>
+>> If you would like to follow along, I'll be performing status updates and
+>> plan discussion in #multidc-crypter, which has all of the relevant
+>> documentation pinned to the channel.
+>>
+>> Bromide and Salamanders,
+>>   - Jón Tómas
+>>
+>
+>
+>

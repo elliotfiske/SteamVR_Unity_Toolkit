@@ -1,0 +1,30 @@
+C260 Weekly Team Meeting Slides
+Haley Burke <haley.burke@salesforceiq.com>
+1473445095000
+Hi all, HERE are the slides for next week&#39;s team meeting. We are aiming to keep these meetings to 20 minutes, so please keep each functional update to one minute. Let me know if you plan to present
+Hi all,
+
+HERE
+<https://docs.google.com/a/salesforce.com/presentation/d/1Q9tL8XA47sGBzL1wAqfiEeqYbXZwi5oZ5kGhiYC4G5Y/edit?usp=sharing>
+are
+the slides for next week's team meeting.
+
+We are aiming to keep these meetings to 20 minutes, so please keep each
+functional update to one minute.
+
+Let me know if you plan to present remotely so we can be prepared with the
+right tech setup.
+
+Thanks and happy Friday!
+
+Haley
+-- 
+
+Haley Burke
+
+SalesforceIQ <https://www.salesforceiq.com/>: Smarter Selling, Better
+Relationships.
+
+502 Emerson Street | Palo Alto, CA 94301
+
+[m] 415-471-5267  | hburke@salesforce.com <kluetto@salesforce.com>

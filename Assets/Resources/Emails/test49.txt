@@ -1,0 +1,13 @@
+WFH - doctor appointment
+Sy Le <sle@salesforce.com>
+1473300337000
+Team, Ollie has a check up appointment tomorrow afternoon. I will WFH tomorrow. I will be available on all channels. For urgent matter, please call my cellphone at 408.216.3428 Thanks, Sy
+Team,
+
+Ollie has a check up appointment tomorrow afternoon. I will WFH tomorrow. I
+will be available on all channels.
+
+For urgent matter, please call my cellphone at 408.216.3428
+
+Thanks,
+Sy

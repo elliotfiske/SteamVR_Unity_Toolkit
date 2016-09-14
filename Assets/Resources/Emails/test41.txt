@@ -1,0 +1,27 @@
+Last reminder to verify your email address
+Zeplin <no-reply@zeplin.io>
+1473365514000
+Hey elliotfiske! Looks like your email is not yet verified. 😔 Last 1 day, or you&#39;ll only have limited access to your projects. Here&#39;s the verification link: verify account If clicking doesn
+ <http://mandrillapp.com/track/click/30339184/app.zeplin.io?p=eyJzIjoiNzh6dkJKSGdvWEF1WHBXX0h1bVVtRUJHc2lZIiwidiI6MSwicCI6IntcInVcIjozMDMzOTE4NCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2FwcC56ZXBsaW4uaW9cIixcImlkXCI6XCI4MDEwOTdlMDc5MzY0MDNiYjFjOWUzNDc1ZjJmNDE3MVwiLFwidXJsX2lkc1wiOltcIjIxNjA4YzUzNzhhZmI5MTc5MzkwZDhkZTcwOWM2NDQ0ZDBlODYxMjdcIl19In0> 
+   Hey elliotfiske! 
+
+  Looks like your email is not yet verified. 😔 Last 1 day, or you'll
+only have limited access to your projects. Here's the verification link: 
+
+  verify account
+<https://app.zeplin.io/verify.html#token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI1N2MwOWZkOWY5MjlhOWM2MDU3YzVhZTciLCJwYXNza2V5IjoiM2NmODA1M2EtMmU1NC00ODVlLTgwNmMtOTZmYzJjOThlZDU0IiwiZW1haWxWZXJpZmllZCI6ZmFsc2UsIndoaXRlbGlzdCI6WyIvdXNlcnMvdmVyaWZ5Il0sImlhdCI6MTQ3MzM2NTUxNCwiZXhwIjoxNDczNjI0NzE0LCJpc3MiOiJ6ZXBsaW46YXBwLnplcGxpbi5pbyJ9.3N7lus23W1VD1NVcVHQCKcOQeq-Cl1J2i4H09YXNyws>
+
+  If clicking doesn't work, you can try copying and pasting it to your
+browser: 
+
+ 
+https://app.zeplin.io/verify.html#token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI1N2MwOWZkOWY5MjlhOWM2MDU3YzVhZTciLCJwYXNza2V5IjoiM2NmODA1M2EtMmU1NC00ODVlLTgwNmMtOTZmYzJjOThlZDU0IiwiZW1haWxWZXJpZmllZCI6ZmFsc2UsIndoaXRlbGlzdCI6WyIvdXNlcnMvdmVyaWZ5Il0sImlhdCI6MTQ3MzM2NTUxNCwiZXhwIjoxNDczNjI0NzE0LCJpc3MiOiJ6ZXBsaW46YXBwLnplcGxpbi5pbyJ9.3N7lus23W1VD1NVcVHQCKcOQeq-Cl1J2i4H09YXNyws
+
+  Let us know, if you have any problems: support@zeplin.io
+<mailto:support@zeplin.io> 
+
+  Zeplin Crew 
+
+ 
+   
+ follow Zeplin <http://mandrillapp.com/track/click/30339184/twitter.com?p=eyJzIjoieHZmTlJVUDJJMVpUby1QbVVqR29XYzdNdG8wIiwidiI6MSwicCI6IntcInVcIjozMDMzOTE4NCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3R3aXR0ZXIuY29tXFxcL3plcGxpbl9pb1wiLFwiaWRcIjpcIjgwMTA5N2UwNzkzNjQwM2JiMWM5ZTM0NzVmMmY0MTcxXCIsXCJ1cmxfaWRzXCI6W1wiYjg4NDE1MWIxZWU1NGRjNzU1NjcyNjM3ODkyMDFiMTUzODRjODZhZVwiXX0ifQ>

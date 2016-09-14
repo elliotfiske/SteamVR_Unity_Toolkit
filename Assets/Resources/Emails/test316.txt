@@ -1,0 +1,126 @@
+Re: New SalesforceIQ API Documentation is Live
+Matt Martin <matthew.martin@salesforce.com>
+1471536559000
+About time someone updated those docs! Whoever wrote created that page obviously had no clue what they&#39;re doing! On Aug 18, 2016, at 8:31 AM, Karn Khunger &lt;kkhunger@salesforce.com&gt; wrote:
+About time someone updated those docs!
+
+Whoever wrote created that page obviously had no clue what they’re doing!
+
+
+> On Aug 18, 2016, at 8:31 AM, Karn Khunger <kkhunger@salesforce.com> wrote:
+> 
+> What an API it is. What a time to be alive. 
+> 
+> Great job, team!
+> 
+> On Thu, Aug 18, 2016 at 4:27 PM, Maxwell Tenney <max@salesforceiq.com <mailto:max@salesforceiq.com>> wrote:
+> Gotta love that API
+> 
+> On Thu, Aug 18, 2016 at 12:50 AM, Shardul Vikram <svikram@salesforce.com <mailto:svikram@salesforce.com>> wrote:
+> Great job team !
+> 
+> On Wed, Aug 17, 2016 at 7:31 PM, Priyadarshini Routh <prouth@salesforce.com <mailto:prouth@salesforce.com>> wrote:
+> Amazing work!
+> 
+> On Wed, Aug 17, 2016 at 6:33 PM, Steven Yan <steven.yan@salesforce.com <mailto:steven.yan@salesforce.com>> wrote:
+> Fantastic!
+> 
+> 
+> On Wednesday, August 17, 2016, Ambalika Sudan <ambalika@salesforceiq.com <mailto:ambalika@salesforceiq.com>> wrote:
+> Awesome!!
+> 
+> 
+> On Wed, Aug 17, 2016 at 5:24 PM, Ian Cundiff <icundiff@salesforce.com <>> wrote:
+> <Photo_1.jpg>
+> 
+> Ian Cundiff | Sales Engineer | SalesforceIQ
+> 
+> On August 17, 2016 at 18:11, Rosie Roca<rroca@salesforce.com <>> wrote:
+> 
+>> Woohoo!
+>> 
+>> Rosie Roca
+>> SalesforceIQ <https://www.salesforceiq.com/>: Smarter Selling, Better Relationships.
+>> 502 Emerson Street | Palo Alto, CA 94301
+>> [o] 650.409.2334 <tel:650.409.2334> | [m] 650.690.5021 <tel:650.690.5021> | rroca@salesforce.com <>
+>> 
+>> Are you a SalesforceIQ power user? Join a free online live training <http://www2.salesforceiq.com/livetraining> to become one! 
+>> 
+>> On Wed, Aug 17, 2016 at 4:08 PM, Nicolas Gerard <ngerard@salesforce.com <>> wrote:
+>> Thanks Kevin
+>> 
+>> On Wed, Aug 17, 2016 at 4:08 PM, Russell Murphy <r.murphy@salesforce.com <>> wrote:
+>> This is awesome! Thanks KT and team!
+>> 
+>> On Wed, Aug 17, 2016 at 3:54 PM, Kevin Terusaki <kterusaki@salesforce.com <>> wrote:
+>> Hi team,
+>> 
+>> After a slight hiccup in the last push, the new API documentation is live! The new API docs showcases:
+>> 
+>> 1) Full code examples to help developers understand the full extent of our API
+>> 2) Updated color scheme that matches better with the SalesforceIQ website
+>> 3) Responsive Design
+>> 
+>> Problems we're solving:
+>> There is a lot of confusion around the SalesforceIQ Object Model and how to manipulate those objects in the API. With the updates to the documentation, we're hoping to eliminate this confusion and reduce the number of API related support tickets and post-sales calls.
+>> 
+>> Shout out to Jón, Mohsin, Henry, & Kevin Li for all their help on this project. #People #Results
+>> 
+>> -- 
+>> Best,
+>> Kevin Terusaki
+>> SalesforceIQ: Smart Selling. Better Relationships.
+>> 502 Emerson Street | Palo Alto, CA 94301
+>> 650.4601590 <tel:650.4601590> | kterusaki@salesforce.com <>
+>> 
+>> 
+>> -- 
+>> Russell Murphy
+>> Sales Manager, SalesforceIQ
+>> 502 Emerson Street | Palo Alto, CA 94301
+>> 415.940.3820 <tel:415.940.3820> | r.murphy@salesforce.com <>
+>> 
+>> 
+>> 
+>> 
+>> -- 
+>> Nicolas Gerard
+>> SalesforceIQ
+>> 
+>> Watch our Micro Demo <http://salesforce.vidyard.com/watch/sPS31JD5fQTjDLFxphjPHV> video, or start a Free Trial <https://app.salesforceiq.com/inboxtrial> of SalesforceIQ Inbox
+>> 
+> 
+> 
+> 
+> -- 
+> Ambalika Sudan
+> SalesforceIQ <https://www.salesforceiq.com/>: Smarter Selling, Better Relationships.
+> 502 Emerson Street | Palo Alto, CA 94301
+> [o] 650. <tel:650.409.2334>903.7006 | [m] 917.667.7094 <tel:917.667.7094> | ambalika@salesforceiq.com <>
+> Register for SalesforceIQ Live Trainings! <https://www2.salesforceiq.com/livetraining>
+> 
+> -- 
+> Thanks,
+> Steven
+> 
+> 
+> 
+> 
+> 
+> 
+> -- 
+> Max Tenney
+> SalesforceIQ - Less Work, More Wins
+> 117 University Ave | Palo Alto, CA 94301
+> O - 650.646.3287 <tel:650.646.3287> | M - 503.298.0412 <tel:503.298.0412> | max@salesforceiq.com <mailto:max@salesforceiq.com> 
+> 
+> Register for SalesforceIQ Live Trainings <https://www.salesforceiq.com/livetrainings>
+> 
+> 
+> 
+> -- 
+> 
+> Karn Khunger
+> Teammate | SalesforceIQ
+> 502 Emerson Street | Palo Alto, CA 94301
+> 650.903.7162 | kkhunger@salesforce.com <mailto:kkhunger@salesforce.com>

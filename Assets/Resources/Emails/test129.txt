@@ -1,0 +1,30 @@
+C259 Weekly Team Meeting Slides
+Haley Burke <haley.burke@salesforceiq.com>
+1472756578000
+Hi all, HERE are the slides for next week&#39;s team meeting. Since Monday is Labor Day, the meeting will be Tuesday at 10am PST. We are aiming to keep these meetings to 20 minutes, so please keep each
+Hi all,
+
+HERE
+<https://docs.google.com/a/salesforce.com/presentation/d/1Kbyritk3cYJhrKpsy5Dw08_qwuszoYPD38lNt6PWFs4/edit?usp=sharing>
+are the slides for next week's team meeting. Since Monday is Labor Day, the
+meeting will be Tuesday at 10am PST.
+
+We are aiming to keep these meetings to 20 minutes, so please keep each
+functional update to one minute.
+
+Please let me know if you plan to present remotely so we can be prepared
+with the right tech setup.
+
+Thanks and have a great long weekend everyone!
+Haley
+
+-- 
+
+Haley Burke
+
+SalesforceIQ <https://www.salesforceiq.com/>: Smarter Selling, Better
+Relationships.
+
+502 Emerson Street | Palo Alto, CA 94301
+
+[m] 415-471-5267  | hburke@salesforce.com <kluetto@salesforce.com>

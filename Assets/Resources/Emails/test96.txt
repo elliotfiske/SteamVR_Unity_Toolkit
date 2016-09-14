@@ -1,0 +1,22 @@
+Github Default Permission
+Devina Tandrawarsito <it@salesforceiq.com>
+1472855539000
+Hi Engineering Team, We will change Github default permission from Write to None at 5 PM. Members will only be able to clone and pull public repositories. To give a member additional access (eg: write
+Hi Engineering Team,
+
+We will change Github default permission from Write to None at 5 PM.
+
+*Members will only be able to clone and pull public repositories. To give a
+member additional access (eg: write access), we’ll need to add them to
+teams or make them collaborators on individual repositories.*
+
+This might impact the permission of existing user. If you have access issue
+to Github, please email helpdesk@salesforceiq.com
+
+
+Thank You and Happy Friday !
+
+
+Regards,
+
+IT

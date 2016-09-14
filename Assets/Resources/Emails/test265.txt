@@ -1,0 +1,106 @@
+App Cloud App of the Week — Morgan & Morgan
+Adam Seligman <aseligman@salesforce.com>
+1471969865000
+Hi Elliot, Morgan &amp; Morgan is a leading personal injury law firm, helping clients with anything from slip-and-fall injuries to antitrust litigation. The firm represents clients facing 60 different
+App Cloud App of the Week - Morgan & Morgan
+
+
+
+Hi Elliot,
+
+
+http://click.mail.salesforce.com/?qs=9037b2a3eb656e508a7165f5e3cd776b65f09687f39b1269d72761d0edaeb906 
+Morgan & Morgan  is a leading personal injury law firm, helping clients with anything from slip-and-fall injuries to antitrust litigation. The firm represents clients facing 60 different cases in states throughout the East Coast. Advertising through several different channels, such as TV, print, and radio, Morgan & Morgan gets thousands of incoming calls from potential clients. With this level of advertising success, the firm was having difficulty screening incoming calls at scale and needed an effective system for quickly evaluating which new clients to take on.
+
+ 
+
+Using Salesforce App Cloud, Morgan & Morgan implemented a quick automated system for call center reps. The call center app decreased the time it took to onboard new reps, and improved the process for accepting new cases.
+
+
+
+Read on to learn more about how Morgan & Morgan's leadership used many Salesforce resources to improve business and the customer experience.
+
+
+
+Adam Seligman
+
+EVP and GM, App Cloud, Salesforce
+
+
+Morgan & Morgan Transforms Client Onboarding with Salesforce App Cloud
+
+http://click.mail.salesforce.com/?qs=9037b2a3eb656e508a7165f5e3cd776b65f09687f39b1269d72761d0edaeb906 
+Morgan & Morgan 
+
+Segment: Professional Services
+Industry: Engineering, Construction, & Real Estate
+Location: Orlando, FL
+Legacy Technology: a custom app built on Microsoft Dynamics
+Featured App: Intake Management App for Legal Case Processing&mdash; Call center case screening and client information gathering 
+AppExchange:
+http://click.mail.salesforce.com/?qs=f187166d711cfbd9fc4facab034d7c1c3a7e3cbb0fe82231001f024bf404e3a6 
+DocuSign , 
+http://click.mail.salesforce.com/?qs=eee86fc0321b1578712f7dc6909d846bc94c710226e851833abe2ae5cd178ae0 
+Drawloop , 
+http://click.mail.salesforce.com/?qs=70ac9faddadf0010b173c5e4fa51da0ca537397519f9f10fc1500180ea481d8a 
+Skuid , 
+http://click.mail.salesforce.com/?qs=e9c760ff61ddf14b0f37b62b9989b32c7ea9064d932ac28caf34205b16ac2ec1 
+ConvergeOne 
+
+
+
+The Situation
+
+
+
+For personal injury law firms like 
+http://click.mail.salesforce.com/?qs=9037b2a3eb656e508a7165f5e3cd776b65f09687f39b1269d72761d0edaeb906 
+Morgan & Morgan , every case the firm chooses to represent requires a serious investment that can't be recouped unless the case is successful. This means that how the team assesses and chooses cases can prevent costly mistakes. Morgan & Morgan's custom application for new client onboarding, built on App Cloud, provides intake agents with powerful new tools for screening and identifying the right cases, which reduces the risk of accepting flawed cases.
+
+
+
+"The entire intake process is an art and a science," said Keith Sadler, Vice President of Platform at Morgan & Morgan. The firm had always operated with a team of trained call center operators who would determine which cases to take or reject. When injury sufferers would call the firm, prompted by TV, print, and radio ads, agents would walk these prospective clients through a series of questions to determine the quality of their cases. "We knew the main pain points by watching calls come in," said Sadler. "It was so time-consuming, with so many redundant questions and processes. Witnessing firsthand what was happening told us what we needed to build." Salesforce was chosen as the platform because the firm's new COO, Reuven Moskowitz, had an amazing experience with it at his own firm prior
+ to joining Morgan & Morgan, and he valued its simplicity and flexibility.
+
+
+
+
+The App
+
+
+
+A small and nimble IT team in New York, worked with call center agents to develop an Intake Management App for the Legal world, leveraging computer-telephone integration (CTI) that provides click-to-dial and screen pops for agents as it guides them through visual workflows and shows relevant questions to ask each caller. The app now decides whether to accept or reject the case in real time. If accepted, the client receives and signs a contract through DocuSign, and a custom-dispatch system assign appoints investigators to meet with clients, if necessary. The first CTI was designed for 12 agents taking calls on class action lawsuit prospects, and was built and deployed internally in six weeks. A second app, for another group of 60 users, also took just six weeks!
+
+The Results
+
+
+The improvements in efficiency for the Morgan & Morgan team have been dramatic. Training costs have dropped because agents no longer have sole responsibility for deciding clients. The app also assures greater quality control in terms of oversight and standards in the decision-making process. The client experience is also much improved, with faster screening and far less paperwork. "We're continuing to grow and roll out Salesforce to as many business units as possible," said Keith. "We're looking to be wall to wall."
+
+Looking Ahead
+
+
+Morgan & Morgan is continuing to grow and roll out to as many business units as possible. It is looking to go wall to wall with App Cloud and add 30-40 more case types.
+
+Learn More
+
+http://click.mail.salesforce.com/?qs=aa34f6ebf672ae647d3d5db99381970989147b0b08412ce5051c5dd48201bee0 
+See Full Story 
+
+http://click.mail.salesforce.com/?qs=0ec4eaf2bff22fe4079994b66332a43f2b8039c734dc6ee2e6bc6d947f6cc7ef 
+Customer Story Slide 
+
+http://click.mail.salesforce.com/?qs=9037b2a3eb656e508a7165f5e3cd776b65f09687f39b1269d72761d0edaeb906 
+Company Website 
+
+http://click.mail.salesforce.com/?qs=ae4c91e557acbbead138b7beaf6ec77ad010c5687506b539476a8db2b67cabb7 
+More App Cloud Stories 
+
+http://click.mail.salesforce.com/?qs=7988dc10440a42303d27c565caf6a416a7a89d08f05c3a2230410aa61a2872c5 
+More App of the Weeks 
+
+http://click.mail.salesforce.com/?qs=31f38209970beadb1f52e368c57e655c77ffcb360bf7af19fc31d69b26920174 
+#AppCloudApp 
+
+
+
+

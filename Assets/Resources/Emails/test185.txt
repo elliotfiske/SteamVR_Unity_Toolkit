@@ -1,0 +1,38 @@
+IT Alert: Service disruption : Global disruption www.Salesforce.com and Dreamforce.com - Downgraded    [ ref:_00D00hg76._500701d7YOj:ref ]
+"\"IT - Alerts\" <italerts@salesforce.com>" <italerts@salesforce.com>
+1472493500000
+IT Alert: Global Service disruption www.Salesforce.com and www.Dreamforce.com Update: The ongoing service disruption has significantly improved. We are now downgrading this to a Severity 2. Our teams
+IT Alert: Global disruption www.Salesforce.com and Dreamforce.com
+
+We are experiencing a service disruption with Dreamforce; www.Salesforce.com
+
+Incident Details
+
+Start Time:
+
+8/29/2016 8:05 AM PDT
+
+Severity:
+
+Sev 1
+
+Impacted Region:
+
+North America; EMEA; APAC
+
+Actions for Resolution:
+
+IT is working with the vendors to resolve the issue.
+
+Get Updates
+
+We will provide updates on the issue every 30 minutes through email and IT Alerts Chatter with #ITAlerts. To check on customer impacting issues, you can visit the salesforce.com Trust site or the Missile Command internal Chatter group.
+
+Have questions or need support?
+
+If you have any questions, post on IT Alerts Chatter group. For assistance with any issues, contact the Global Service desk: local GSD numbers or log a ticket.
+
+We apologize for any inconvenience and are working hard to have you up and running as quickly as possible. Mahalo for your patience!
+
+All content in this message is considered confidential.
+

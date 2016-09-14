@@ -1,0 +1,36 @@
+204 Winter ‘17 SB2 Major Release: 10:30am PT Status
+Junaid Basir <jbasir@salesforce.com>
+1473528896000
+BCC: !Maintenance Notification; #CFL, Global Technical Support – Leadership; !HQ R&amp;D; !Release Deployment Team; IT Scrum - G4G Performance; IT G4G Execution Runlist; ** Stallapragada Team; ** Randy
+BCC: !Maintenance Notification; #CFL, Global Technical Support –
+Leadership; !HQ R&D; !Release Deployment Team; IT Scrum - G4G Performance;
+IT G4G Execution Runlist; ** Stallapragada Team; ** Randy Kern - All
+Managers
+
+*** FOR INTERNAL USE ONLY: Please do not forward. ***
+
+*204 Winter ‘17 SB2 Release: 10:30AM PT STATUS*
+
+Summary
+
+Progressing as planned. No Issues to report
+
+High Level Status by  Group
+
+204 SB2 Scheduled
+Maintenance
+Window (PT) # Planned Instances Status/Exceptions
+Set 1 9:00 - 9:05 AM 2 Live on 204,
+Instances Signed-Off
+Set 2 11:00 - 11:05 AM 3
+
+Detailed Status by Instance
+<https://docs.google.com/spreadsheets/d/1yn3XewxtU8bmO0s-Q1XLxVZJGcYJTH4vhBPojpf-TWk/edit>
+
+Next update
+
+11:30am  PT
+
+Thanks
+
+Junaid

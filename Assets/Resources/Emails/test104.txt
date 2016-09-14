@@ -1,0 +1,17 @@
+Email Notifications Code Red - Post Mortem
+Annie Lange <alange@salesforce.com>
+1472840625000
+All, We had a two part post mortem on the Email Notifications code red from the previous week. The post mortem notes are in Confluence here, and the tasks are created and assigned in JIRA for short
+All,
+
+We had a two part post mortem on the Email Notifications code red from the
+previous week. The post mortem notes are in Confluence here
+<https://confluence.relateiq.com/display/ENG/Email+Notification+-+2016-08-24>,
+and the tasks are created and assigned in JIRA for short term / long term
+action items.
+
+Huge thank you to the entire team involved with the issue, *and* those
+handling the communications for notifying customers over the next few weeks.
+
+Best,
+Annie

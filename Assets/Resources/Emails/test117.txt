@@ -1,0 +1,96 @@
+Re: [Release Update] Outlook Send Later and Salesforce Templates!
+Stephen Ehikian <sehikian@salesforce.com>
+1472792645000
+Great job backend team!! This is a huge win for our customers On September 1, 2016 at 5:22 PM, Keven Wang&lt;keven@salesforceiq.com&gt; wrote: Huge shout out to backend engineers making this happen:
+Great job backend team!!  This is a huge win for our customers
+
+
+On September 1, 2016 at 5:22 PM, Keven Wang<keven@salesforceiq.com> wrote:
+
+Huge shout out to backend engineers making this happen: Eli, Shardul and
+backend team!
+
+On Thu, Sep 1, 2016 at 5:21 PM, Flora Ellis <fwu@salesforce.com> wrote:
+
+> Templates support has been rolled out to 50% on Chrome!
+>
+> On Tue, Aug 30, 2016 at 7:13 PM, Flora Ellis <fwu@salesforce.com> wrote:
+>
+>> Exciting update:  Salesforce templates support has been rolled out to 20%
+>> on Chrome!
+>>
+>> On Fri, Aug 26, 2016 at 4:18 PM, Flora Ellis <fwu@salesforce.com> wrote:
+>>
+>>> Team,
+>>>
+>>> Starting today, users on Outlook can use *Send Later* and *Salesforce
+>>> Templates*!  These are both highly requested features that bring
+>>> Outlook to parity and a huge win for Inbox.
+>>>
+>>> ------------------------
+>>>
+>>> *Who: *Available to 100% external
+>>>
+>>>
+>>> Problems solved: Customers can now schedule an email to Send Later and
+>>> use Salesforce Templates when composing emails
+>>>
+>>>
+>>> [image: Inline image 1]
+>>>
+>>>
+>>> *Planned timing of rollout: * Today, August 26
+>>>
+>>> Marketing: N/A
+>>>
+>>>
+>>> Issues: Please file any bugs by emailing bugs@relateiq.com
+>>>
+>>>
+>>> ------------------------
+>>>
+>>> A big shout out goes to *Hiro *for Send Later and *Robert *for
+>>> Templates, along with the Desktop and Design teams for the amazing work!
+>>>
+>>>
+>>> Best,
+>>> Inbox
+>>>
+>>> PS Salesforce Templates is coming soon to Chrome! I will send out an
+>>> update when it's in Production.
+>>> --
+>>> Flora Wu
+>>>
+>>> SalesforceIQ <https://www.salesforceiq.com/>: Smarter Selling, Better
+>>> Relationships.
+>>>
+>>> 502 Emerson Street | Palo Alto, CA 94301
+>>>
+>>> [m] 908.392.8773 | fwu@salesforce.com
+>>>
+>>
+>>
+>>
+>> --
+>> Flora Wu
+>>
+>> SalesforceIQ <https://www.salesforceiq.com/>: Smarter Selling, Better
+>> Relationships.
+>>
+>> 502 Emerson Street | Palo Alto, CA 94301
+>>
+>> [m] 908.392.8773 | fwu@salesforce.com
+>>
+>
+>
+>
+> --
+> Flora Wu
+>
+> SalesforceIQ <https://www.salesforceiq.com/>: Smarter Selling, Better
+> Relationships.
+>
+> 502 Emerson Street | Palo Alto, CA 94301
+>
+> [m] 908.392.8773 | fwu@salesforce.com
+>

@@ -1,0 +1,120 @@
+[CRM Release Update] Address Properties SHIPPED!
+Alexis Smith <alexis.smith@salesforce.com>
+1472685207000
+Tldr; Address Properties has shipped to 100% of users as of 4 pm PST 8/31/16 ________________________________ Problems Solved: Address Properties enables customers to customize their workflow in
+Tldr; *Address Properties has shipped to 100% of users as of 4 pm PST
+8/31/16*
+
+> ________________________________
+>
+> *Problems Solved:*
+>
+> Address Properties enables customers to customize their workflow in
+> SalesforceIQ by parsing mailing addresses into separate fields within the
+> Grid.
+>
+> For example:
+>
+>    -
+>
+>    A salesperson wants to sort all leads in San Francisco in preparation
+>    for their upcoming business trip there.
+>    -
+>
+>    A salesperson wants to filter their contacts by city to create
+>    geographically personalized mass emails.
+>    -
+>
+>    A sales manager wants to see lead penetration by postal code to assess
+>    the health of a particular sales territory.
+>
+>
+> *What shipped?*
+>
+>    -
+>
+>    Intelligent parsing splits addresses up into city, state/province,
+>    country, zip/postal code when a full mailing address is detected.
+>    -
+>
+>    Typeahead helps to auto-populate addresses using the Google Maps API
+>    saving time and minimizing error.
+>
+> *Timing:*
+>
+>    - Externally available to all users as of 4 pm PST 8/31/16
+>
+> *Metrics: *
+>
+>    -
+>
+>    % Parseable Addresses in SalesforceIQ Database
+>    -
+>
+>       Currently only 30% of addresses on contact-based lists and 15% of
+>       addresses on account-based lists are eligible to be parsed for V1
+>       -
+>
+>          The majority of our customers only have partial addresses
+>          inputted in the 'Address' field today.
+>          -
+>
+>          We expect the % of parseable addresses in our system to grow
+>          once Import V2 ships and it becomes possible to concatenate
+>          address fields from an XLS into a single mailing address cell
+>          -
+>
+>    Usage Rate
+>    -
+>
+>       50% adoption rate across all orgs by December 2016
+>
+>
+> *Marketing:*
+>
+>    -
+>
+>    Blog post coming soon to be released in conjunction with Custom
+>    Contact Properties launch.
+>
+>
+> *Support Material:*
+>
+
+>    - Address Properties Overview -- External Help Center Link
+>    <https://help.salesforceiq.com/articles/address-properties>
+>    - Troubleshooting Address Properties -- External Help Center Link
+>    <https://help.salesforceiq.com/articles/troubleshooting-address-properties>
+>
+>
+>
+>    - Internal FAQs
+>    <https://docs.google.com/document/d/1GS8r-ZPSYvaIXwFRP5i9fIDAaxX4osIwwxieJhSCwCw/edit>
+>
+>
+
+*Known Issues:*
+>
+>    -
+>
+>    Large number of incomplete/partial addresses in the system due to
+>    import UI and previous lack of parsing ability. Only full mailing
+>    addresses will be parsed to maintain accuracy; incomplete/partial
+>    addresses will not be parsed for V1 (See metrics section above)
+>    - Reporting on address fields may temporarily be stale by 24-48 hours.
+>    Reporting on other criteria is not affected while we solve this bug.
+>
+>
+>    -
+>
+>    Please submit all feedback and bugs to bugs@relateiq.com and cc Alexis
+>    Smith.
+>
+>
+> *People: *
+>
+>    - Massive props to *Gabe Krupa!* Kudos also to: Neville, Alexis R,
+>    Henry, Danny, Jón, Mike G, Matt M., Joe M, Kris, Ben, Catriona, Hang,
+>    Kelly, Alex M and Annie
+>
+>

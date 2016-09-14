@@ -1,0 +1,10 @@
+[Monitor Report] You received 1053 alerts, +28% from the previous week
+Datadog <no-reply@datadoghq.com>
+1473668153000
+Monitor report for SalesforceIQ Monitor report View an interactive version in Datadog. To manage your Datadog subscriptions, click here.
+Monitor report for SalesforceIQ
+
+View an interactive version of your Monitor report in Datadog:
+
+https://app.datadoghq.com/report/monitor
+

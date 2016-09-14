@@ -1,0 +1,33 @@
+Safari + Apps
+Apple Developer <developer@insideapple.apple.com>
+1472065887000
+Create Safari Extensions that give users access to your app&#39;s best features as they browse the web. Xcode makes it simple to add Safari Extensions to your existing app by using an App Extensions
+Apple Developer
+
+------------------------
+
+Safari + Apps
+
+Create Safari Extensions that give users access to your app's best features as they browse the web. Xcode makes it simple to add Safari Extensions to your existing app by using an App Extensions template. Easily develop your extensions using powerful, native APIs and web technologies. And coming this fall with macOS Sierra, you can sell and distribute apps with Safari Extensions on the Mac App Store to customers worldwide.
+
+Download the latest beta of macOS Sierra and Xcode 8 to build and test your extensions today.
+
+Learn more
+https://developer.apple.com/safari/extensions/
+
+
+------------------------
+Copyright 2016 Apple Inc. 1 Infinite Loop, Cupertino, CA 95014.
+
+All Rights Reserved 
+http://www.apple.com/legal/
+
+Privacy Policy
+http://www.apple.com/legal/privacy/
+
+My Apple ID
+http://appleid.apple.com/
+
+
+If you would prefer not to receive future communications from Apple Developer, you may unsubscribe.
+https://developer.apple.com/unsubscribe/?v=2&la=en_us&a=cyzUTltoh9U2Tvi8r0XFfwyqj%2BTufFAqUEU6FW4VhwVYlgcKJi6bcNt%2BMHV0rByrJhLMkQdOImtZK6ZMlNB%2F6Y1hJWvpbsLAt3%2FwAIG7U7CH%2ByCsT6hxLU6SmIXPIo1%2FWTy6GOXWE67iTAwJtedksQ%3D%3D

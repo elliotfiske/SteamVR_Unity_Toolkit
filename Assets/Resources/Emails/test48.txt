@@ -1,0 +1,22 @@
+Join me Tues Sept 13 for Succinct!
+Anya Bida <abida@salesforce.com>
+1473308947000
+Hi Folks, I am be hosting an SF Big Analytics Meetup featuring Succinct, the latest project from Berkeley&#39;s AMP Lab. The audience is encouraged to ask questions during these informal talks. The
+Hi Folks,
+
+I am be hosting an SF Big Analytics
+<http://www.meetup.com/SF-Big-Analytics/events/232782222/?rv=ce1&_af=event&_af_eid=232782222&https=off>
+Meetup
+featuring Succinct <http://succinct.cs.berkeley.edu/wp/wordpress/?p=143>,
+the latest project from Berkeley's AMP <https://amplab.cs.berkeley.edu/>
+Lab.
+
+The audience is encouraged to ask questions during these informal talks.
+The host, AppDynamics <https://www.appdynamics.com/>, has a small space so
+please let me know if you have trouble with RSVP.
+
+Cheers,
+Anya
+-- 
+Anya Bida, PhD | SalesforceIQ
+Product Engineering - SRE SMTS

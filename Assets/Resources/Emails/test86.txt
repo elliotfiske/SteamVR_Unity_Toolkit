@@ -1,0 +1,252 @@
+Re: Friday Demo Agenda - September 2nd
+Steven Yan <steven.yan@salesforce.com>
+1472865500000
+Hi Joe Thanks a lot for all the detailed summaries ! Thanks Steven On Friday, September 2, 2016, Joe Chrzanowski &lt;joe@salesforceiq.com&gt; wrote: Bob Logan • Significant parsing speed improvements
+Hi Joe
+
+Thanks a lot for all the detailed summaries !
+
+Thanks
+Steven
+
+On Friday, September 2, 2016, Joe Chrzanowski <joe@salesforceiq.com> wrote:
+
+> Bob Logan
+>
+>     • Significant parsing speed improvements for ContactIQ signature
+> parsing
+>
+>     • Backlog cut from millions to a few thousand
+>
+>
+> Marcin Zieminski
+>
+>     • Testing infrastructure for PredictionIO that can test all the
+> different configurations
+>
+>     • Docker container that contains everything you need to test PIO
+> (spark, postgres, hadoop, ...etc)
+>
+>
+> Chan Lee
+>
+>     • Heroku buildpack for PredictionIO
+>
+>     • Heroku now supports Spark because of this
+>
+>     • Created a sample app for doing SPAM classification
+>
+>     • Chan is really gonna miss fraiche
+>
+>
+> Marco Viviero
+>
+>     • Took a Salesforce CSV, converted it to Avro; basically salesforce
+> data is *almost* useful for us
+>
+>
+> Eli Hickox
+>
+>     • Administration console for Salesforce Inbox
+>
+>
+> Ting-Po Lee
+>
+>     • Image enrichment project -- recommend user-images for users who
+> don't have images
+>
+>     • We can recommend over 20k images.  About 2k have images currently
+> set.
+>
+>
+> Elliot Fiske
+>
+>     • Fancy new tasks interface in Salesforce Inbox (+undo functionality)
+>
+>
+> Jon Gretarsson
+>
+>     • Crypter is now multi-DC!
+>
+>     • (with zero-downtime by the way)
+>
+>
+> Danny Dang
+>
+>     • Live-demo of the new SFIQ CRM E-mail templates functionality (it
+> looks pretty snazzy)
+>
+>
+> Robert Ames
+>
+>     • Improved logging and bug-button for Inbox
+>
+>
+> Hiro Inami
+>
+>     • Much MUCH better online/offline status handling in the chrome
+> extension
+>
+>     • You get notifications when it can't connect instead of like...
+> failing quietly
+>
+>
+> Bob Van Osten
+>
+>     • Graph (er... I mean Signals) got all kinds of snazzy
+>
+>     • "Moments" UI shows little markers for stuff like pricing discussions
+> (and some other stuff I didn't catch)
+>
+>
+> Jackson Chung
+>
+>     • BEGIN WORK ON MULTI-DC!!!
+>
+>     • Thank you Fabian for letting Jackson know what timezone Frankfurt is
+> in :P
+>
+>
+> Josh Sauter
+>
+>     • Demo of our native-outlook testing for the inbox extension (since we
+> can't use selenium for native apps)
+>
+>     • He (bravely) went in front of the entire company with a windows
+> laptop show
+>
+>
+> Seth Voltz
+>
+>     • A bunch of significant build improvements for the outlook build
+>
+>
+> Andy Wang
+>
+>     • Presenting his intern project: Distributed Tracing!
+>
+>     • Ability to track our 'messages' across machines (you guys this is a
+> big deal)
+>
+>     • We can see how much time a request spends in the web servers vs.
+> storm vs. whatever else we run
+>
+>
+> *Honorable Mention* – All this fancy new amazing furniture ("that
+> one-legged guy that hobbles his way around the office" and the rest of the
+> workplace services team)
+> *Helmet* (*except this week it's a fire truck... because reasons.)* – Jón
+> for taking care of the crypter multi-DC thing in a SUPER smooth release
+> with 0 downtime.
+> *Bear* – Josh.  Josh for being an absolute beast (see demo notes).  And
+> also for having to deal with native outlook.
+>
+>
+>
+> On Fri, Sep 2, 2016 at 3:36 PM, Karina Chan <karina.chan@salesforce.com
+> <javascript:_e(%7B%7D,'cvml','karina.chan@salesforce.com');>> wrote:
+>
+>> Happy Friday! If you are demoing, please introduce yourself and/or your
+>> team as well as what you will be demoing.
+>>
+>>
+>>
+>> *Intro: *Adam
+>>
+>> *Mic*: Jen
+>>
+>> *Camera*: Jen
+>>
+>>
+>>
+>> *Intern Well Wishes:*
+>>
+>> Andy Wang – Nathan Price / Ankush Goyal
+>>
+>> Chan Lee – Donald Szeto
+>>
+>> Ting-Po Lee – Ascander Dost
+>>
+>> Marcin Zieminski – Donald Szeto
+>>
+>>
+>>
+>> *Anniversaries:*
+>>
+>> 6 months - Karina Chan
+>>
+>>
+>>
+>> *2&1's:*
+>>
+>> Sophie(Xiaodan) Sun
+>>
+>> Mike Loh
+>>
+>> Ariel Wei
+>>
+>>
+>>
+>> *Demo List:*
+>>
+>> Bob Logan
+>>
+>> Marcin Zieminski
+>>
+>> Chan Lee
+>>
+>> Marco Viviero
+>>
+>> Eli Hickox
+>>
+>> Ting-Po Lee
+>>
+>> Elliot Fiske
+>>
+>> Jon Gretarsson
+>>
+>> Danny Dang
+>>
+>> Robert Ames
+>>
+>> Hiro Inami
+>>
+>> Bob Van Osten
+>>
+>> Jackson Chung
+>>
+>> Josh Sauter
+>>
+>> Seth Voltz
+>>
+>> Andy Wang
+>>
+>>
+>>
+>> *GoToMeeting*: https://global.gotomeeting.com/join/509664901
+>>
+>>
+>> *Trophies: * Fabian Frank
+>>
+>>
+>> *Music: *DJ Karina
+>>
+>>
+>> --
+>>
+>> *Karina Chan*
+>>
+>> *Salesforce IQ: <http://www.salesforce.com/salesforceiq/overview/> *Smarter
+>> Selling, Better Relationships.
+>>
+>> 502 Emerson Street | Palo Alto, CA 94301
+>>
+>> [m] 415.350.0217 karina.chan@salesforce.com
+>> <javascript:_e(%7B%7D,'cvml','karina.chan@salesforce.com');>
+>>
+>>
+>
+
+-- 
+Thanks,
+Steven

@@ -1,0 +1,15 @@
+P0 Postmortem - Exchange Connectivity Issues + AWS Limits
+Ankush Goyal <ankush.goyal@salesforce.com>
+1472174926000
+Team, We did a postmortem for today morning&#39;s P0, where we saw a bunch of exchange connectivity issues in production. Here&#39;s the detailed report - https://confluence.relateiq.com/display/ENG/
+Team,
+
+We did a postmortem for today morning's P0, where we saw a bunch of
+exchange connectivity issues in production. Here's the detailed report -
+https://confluence.relateiq.com/display/ENG/AWS+Limit+-+2016-08-25
+
+-- 
+Cheers,
+-Ankush Goyal
+SalesforceIQ
+219-256-9580

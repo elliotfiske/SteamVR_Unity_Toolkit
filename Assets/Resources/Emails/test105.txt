@@ -1,0 +1,176 @@
+Fwd: iOS and Android Calendar testing status
+Krishna Kolapalli <kkolapalli@salesforce.com>
+1472840426000
+FYI. ---------- Forwarded message ---------- From: Silvia Elena Alvarado Alvarado &lt;silvia.alvarado@avantica.net&gt; Date: Fri, Sep 2, 2016 at 9:05 AM Subject: iOS and Android Calendar testing status
+FYI.
+
+
+---------- Forwarded message ----------
+From: Silvia Elena Alvarado Alvarado <silvia.alvarado@avantica.net>
+Date: Fri, Sep 2, 2016 at 9:05 AM
+Subject: iOS and Android Calendar testing status
+To: Krishna Kolapalli <kkolapalli@salesforce.com>
+Cc: "Juan Carlos Porras Rodríguez (QA Unit Manager)" <
+juan.porras@avantica.net>, Jose Alonso Febrero Lira <
+jose.febrero@avantica.net>, Jorge Zúñiga Vallecillo <
+jorge.zuniga@avantica.net>
+
+
+Good morning Krish
+
+
+
+We hope all the things are going good for you.
+
+
+
+In the following email we attached a summary about the Calendar testing
+project status and considering the not implement features.
+
+
+
+Until today, on the calendar we have the following testing status:
+
+
+*Testing finished on the features:*
+
+o   General Calendar
+
+o   Calendar Sync with Exchange
+
+o   Log Event
+
+o   Conference Calls
+
+·
+
+*      Features in testing:*
+
+o   Push Notifications
+
+·
+
+     * Feature not already for testing:*
+
+o   Sharing Calendar
+
+
+
+
+
+*iOS:*
+
+
+
+*Bug summary:*
+
+   - *Total Reported: 55*
+   - *Status: *
+      - Opened: 7
+      - In Progress: 4
+
+
+   - *Bugs opened, Reopened and In Progress by Severity: 11*
+
+*Moderate:  6*
+
+   - https://jira.salesforceiq.com/browse/INB-9207
+      - https://jira.salesforceiq.com/browse/INB-9202
+      - https://jira.salesforceiq.com/browse/INB-9146
+      - https://jira.salesforceiq.com/browse/INB-9145
+      - https://jira.salesforceiq.com/browse/INB-8567
+      - https://jira.salesforceiq.com/browse/INB-9018
+
+*Major:  3*
+
+   - https://jira.salesforceiq.com/browse/INB-9007
+      - https://jira.salesforceiq.com/browse/INB-8987
+      - https://jira.salesforceiq.com/browse/INB-9140
+
+*Minor: 2*
+
+   - https://jira.salesforceiq.com/browse/INB-9138
+      - https://jira.salesforceiq.com/browse/INB-9081
+
+
+
+*Android: *
+
+   - *Total Reported: 61*
+   - *Status: *
+      - Opened: 5
+      - In Progress: 2
+      - Reopened: 1
+   - *Bugs opened, Reopened and In Progress by Severity: ** 8*
+
+*Moderate:  2*
+
+   - https://jira.salesforceiq.com/browse/INB-9199
+      - https://jira.salesforceiq.com/browse/INB-9195
+
+*Major:  2*
+
+   - https://jira.salesforceiq.com/browse/INB-9165
+      - https://jira.salesforceiq.com/browse/INB-8850
+
+*Minor: 3*
+
+   - https://jira.salesforceiq.com/browse/INB-9167
+      - https://jira.salesforceiq.com/browse/INB-9162
+      - https://jira.salesforceiq.com/browse/INB-8785
+
+*Trivial: 1*
+
+   - https://jira.salesforceiq.com/browse/INB-8844
+
+*Backend and Platform issues in Open/ In Progress / Reopened:*
+
+   - https://jira.salesforceiq.com/browse/INB-9011 - Major
+   - https://jira.salesforceiq.com/browse/INB-9215 - Critical
+
+
+
+Also, we executed again all the blocked tests cases related to the bug
+already fixed.
+
+
+We recommended see the critical. major and moderate bugs to be fix before
+the release on both platforms.
+
+
+Please let us know if you have some comments or questions about the testing
+status.
+
+
+Regards,
+
+Silvia Elena Alvarado
+Quality Assurance Services
+AvanticaTechnologies · The Nearshore Advantage
+
+(CR) +506.2283.9100 x 1303 | (US) +1.650.587.1525 x 1303 |
+silvia.alvarado@avantica.net | Skype: silvia89_alvarado05
+http://www.avantica.net | blog.avantica.net | twitter: @Avantica
+<http://twitter.com/Avantica>
+This communication may contain information that is legally privileged,
+confidential or exempt from disclosure. If you are not the intended
+recipient, please note that any dissemination, distribution, or copying of
+this communication is strictly prohibited. Anyone who receives this message
+by error should notify the sender immediately by telephone or by return
+e-mail and delete it from their computer. Thank you.
+Esta comunicación puede contener información que sea legalmente
+privilegiada, confidencial o que no debe ser revelada. Si usted no es el
+destinatario intencionado, tenga en cuenta que cualquier divulgación,
+distribución o copia de esta comunicación está estrictamente
+prohibida. Toda persona que reciba este mensaje por error debe notificar al
+remitente inmediatamente por teléfono o por correo electrónico y eliminarla
+de su computador. Muchas gracias.
+
+
+
+-- 
+
+
+KoalaTeam,
+Krishna | 510.541.1902
+*SalesforceIQ*

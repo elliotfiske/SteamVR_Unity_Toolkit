@@ -1,0 +1,19 @@
+Tech Talk Today: NPM
+Joe Chrzanowski <joe@salesforceiq.com>
+1472738616000
+Hey Everyone, Today at noon I&#39;ll be giving a tech talk on NPM and answering questions like: What is NPM exactly? What do we use it for? Why isn&#39;t Gabe writing this tech talk announcement? What
+Hey Everyone,
+
+Today at noon I'll be giving a tech talk on NPM and answering questions
+like:
+
+   - What *is* NPM exactly?
+   - What do we use it for?
+   - Why isn't Gabe writing this tech talk announcement?
+   - What does "renpm" do and why does it seem to fix the world so often?
+
+See you then!
+
+
+
+--Joe

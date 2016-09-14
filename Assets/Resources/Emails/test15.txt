@@ -1,0 +1,4 @@
+Daily salesforce.com Digest for All Salesforce
+Salesforce Chatter <noreply@chatter.salesforce.com>
+1473493604000
+Daily Digest for All Salesforce Saturday, September 10, 2016 Victor Oliveros Victor Oliveros NEW - iOS Salesforce1 10.0.3 release candidate (Build 3027871) IMPORTANT: • DO NOT UPGRADE. YOU MUST DELETE

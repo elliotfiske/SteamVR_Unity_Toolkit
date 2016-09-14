@@ -1,0 +1,46 @@
+[CRM Release Update] Custom Contact Properties @ 25% external
+Alexis Smith <alexis.smith@salesforce.com>
+1473195983000
+[CRM Release Update] Custom Contact Properties tldr; Custom Contact Properties has launched to 25% of SalesforceIQ CRM users and will continue to ramp through the end of the week. What&#39;s launching?
+*[CRM Release Update] Custom Contact Properties*
+
+tldr; Custom Contact Properties has launched to 25% of SalesforceIQ CRM
+users and will continue to ramp through the end of the week.
+
+*What’s launching?*
+Customers can now fully customize the details they track at the contact
+level.
+
+*Problems Solved:*
+Contact profiles did not previously include all the fields that our users
+need in order to successfully run their workflows. In addition, our users
+oftentimes track contact level information in a Standard Grid field, which
+creates user confusion when the information on the Grid doesn’t match the
+information in the Contact Profile.
+
+*Metrics*:
+
+   - Goal: 50% of lists using custom contact properties by Dec. 2016
+   - For comparison, There are 3,955 customized account property names. 14,
+      242 out of a total of 29,029 active lists have customized account
+      properties on them, which means ~ 49% of lists have customized account
+      properties
+
+
+*Marketing*:
+Blog post and marketing email coming in the coming month. Marketing will be
+bundled with address properties.
+
+*Support Material:*
+Internal FAQs
+<https://docs.google.com/document/d/1e_WQsOx72WtsiwOjiSItExwgeNqaaIg9s1EK16qt4jU/edit#heading=h.u2fxbhe0bp73>
+External Help Center Link:
+https://help.salesforceiq.com/articles/contact-properties
+
+*Known Issues:*
+For a comprehensive list of open issues/bugs, see:
+https://jira.salesforceiq.com/issues/?filter=11593
+
+*People*:
+Matt Naides, Ben Shope, Neville Mehta, Kelly Singsank, Katherine Aguilar,
+Alexis Smith

@@ -1,0 +1,33 @@
+Product summit yesterday
+Nakul Narayan <nnarayan@salesforce.com>
+1472309139000
+Team, Just wanted to give everyone an update on the Product summit this past thursday. The audience was Parker Harris, Alex Dayon, Mike Rosenbaum, Srini T. and product/engg team members across products
+Team,
+
+Just wanted to give everyone an update on the Product summit this past
+thursday. The audience was Parker Harris, Alex Dayon, Mike Rosenbaum, Srini
+T. and product/engg team members across products at Salesforce. The goal is
+to highlight progress and share roadmaps for 206, 208, and beyond.
+
+Adam, Steve, David and I shared some of the highlights on Inbox. I've
+attached the slides that we walked through - please let me know if you have
+any questions!
+
+Highlights -
+
+   - Parker, Alex and Mike excited about all the progress we've made so
+   far, and more importantly excited about what's ahead
+   - David crushing a Calendar demo, after which Parker announced that he's
+   going 100% Inbox (he was particularly pumped about the 1-click conf
+   calling!)
+   - Adam artfully dodging the question on whether we're going to build a
+   full-blown Outlook competitor (tldr - the plan is the plan for now, and
+   we're focused on building the world's best productivity tool for sales
+   teams)
+
+Coming away from the session, its incredible to see the excitement for
+Inbox across Salesforce, and the recognition of everything we've built so
+far. Everyone is onboard to help us get to $100m and beyond over the next
+year!
+
+https://docs.google.com/presentation/d/17fQ2koFRlGaQawo87B8hW5ctEE7BUXtkjtP2fkkh6DU/edit#slide=id.g1657f652d1_0_20

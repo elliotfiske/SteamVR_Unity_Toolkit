@@ -1,0 +1,140 @@
+Re: Friday Demo Agenda - August 26th
+Joe Chrzanowski <joe@salesforceiq.com>
+1472255136000
+Scott Bishel Data ingestion metrics inside of SFDC (couting emails, calls, meetings) Fabian Frank Inbox for iOS and Android actually renders HTML properly (unlike the native Outlook app) Indiana Mehta
+Scott Bishel
+    Data ingestion metrics inside of SFDC (couting emails, calls, meetings)
+Fabian Frank
+    Inbox for iOS and Android actually renders HTML properly (unlike the
+native Outlook app)
+    Indiana Mehta unveiling!!!
+Seth Voltz
+    The chrome build is finally degulped :D
+Steven Yan
+    How we deal with windows virtual machines (.... it's a LOT, and Steven
+just abstracted it all into a Vagrantfile)
+    *bonus*: we can use the VM to run automated tests!
+Tom Coyle/Sam Kligman
+    Tom's last hurrah was to create some awesome product dashboards for
+tracking CRM DAU/WAU/Retention/etc.
+Izet Salihbegovic
+    SBT: "Salmon Bacon Tomato".......¯\_(ツ)_/¯
+    But for real he set up a new build process so canary/rc/prod deploys
+run way quicker and more deterministically
+
+
+*Helmet:* Noah and everyone else who had to deal with CSIRT over the past
+week
+*Bear:* Everyone in the room for being an amazing team.  Bye Stevo.... :'(
+ Thanks for everything!!!!
+
+On Fri, Aug 26, 2016 at 3:53 PM, Karina Chan <karina.chan@salesforce.com>
+wrote:
+
+> Happy Friday!
+>
+>
+> If you are demoing, please introduce yourself and your team as well as
+> what you will be demoing.
+>
+>
+>
+> *Intro:* Adam
+>
+> *Mic*: Jen
+>
+> *Camera*: Jen
+>
+>
+>
+> *Last Day for Intern*: Tom Coyle - Alex Moser
+>
+>
+>
+> *Anniversaries*:
+>
+>
+>
+> *6 Months:*
+>
+> *PredictionIO*:
+>
+> Simon Chan
+>
+> Donald Szeto
+>
+> Marco Vivero
+>
+> Kenneth Chan
+>
+> Tom Chan
+>
+>
+>
+> Ceverly Strand
+>
+> Tina Kim
+>
+> Lexis Hanson
+>
+> Jennifer Bi
+>
+>
+>
+> Mallorie Maranda 1yr - Jane
+>
+>
+>
+> *2&1's:*
+>
+> Catherine Kennedy
+>
+> Jane Houck
+>
+> Andrew Yang
+>
+> Oliver Tang
+>
+> Minh Nguyen
+>
+>
+>
+> *Demo List:*
+>
+> Scott Bishel
+>
+> Fabian Frank
+>
+> Seth Voltz
+>
+> Steven Yan
+>
+> Tom Coyle/Sam Kligman
+>
+> Izet Salihbegovic
+>
+>
+>
+> *GoToMeeting*: https://global.gotomeeting.com/join/509664901
+>
+>
+>
+> *Trophies*:  Jon Gretarsson
+>
+>
+>
+> *Music*: DJ Panda
+>
+>
+> --
+>
+> *Karina Chan*
+>
+> *Salesforce IQ: <http://www.salesforce.com/salesforceiq/overview/> *Smarter
+> Selling, Better Relationships.
+>
+> 502 Emerson Street | Palo Alto, CA 94301
+>
+> [m] 415.350.0217 karina.chan@salesforce.com
+>
+>

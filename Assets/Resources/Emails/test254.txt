@@ -1,0 +1,7 @@
+RC Blockers
+"Br. Eckhart Camden OSB" <ccamden@salesforce.com>
+1471983626000
+Reminder: if you have an RC blocker, we need to get the fix into the RC branch. Please submit your fix as a pull request based off of the &#39;rc&#39; branch and targeting the &#39;rc&#39; branch.
+Reminder: if you have an RC blocker, we need to get the fix into the RC
+branch.  Please submit your fix as a pull request based off of the 'rc'
+branch and targeting the 'rc' branch.

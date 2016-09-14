@@ -1,0 +1,125 @@
+[CRM Release Update] Address Properties V1 available to SIQ Employees
+Alexis Smith <alexis.smith@salesforce.com>
+1471556334000
+[CRM Release Update] Address Properties V1 Tldr; Address Properties is available internally to all SalesforceIQ employees on Prod. Please send feedback and bugs to bugs@relateiq.com and cc Alexis Smith
+*[CRM Release Update] Address Properties V1*
+
+
+Tldr; Address Properties is available internally to all SalesforceIQ
+employees on Prod. Please send feedback and bugs to bugs@relateiq.com and
+cc Alexis Smith.
+________________________________
+
+*Problems Solved:*
+
+Address Properties enables customers to customize their workflow in
+SalesforceIQ by parsing mailing addresses into separate fields within the
+Grid.
+
+For example:
+
+   -
+
+   A salesperson wants to sort all leads in San Francisco in preparation
+   for their upcoming business trip there.
+   -
+
+   A salesperson wants to filter their contacts by city to create
+   geographically personalized mass emails.
+   -
+
+   A sales manager wants to see lead penetration by postalcode to assess
+   the health of a particular sales territory.
+
+
+*What’s shipping?*
+
+   -
+
+   Intelligent parsing splits addresses up into city, state/province,
+   country, zip/postal code when a full mailing address is detected.
+   -
+
+   Typeahead helps to auto-populate addresses using the Google Maps API
+   saving time and minimizing error.
+
+
+*Timing:*
+
+   - Available to employees 8/18
+   - Ramping externally end of August, exact date TBD pending bug triage
+
+*Metrics: *
+
+   -
+
+   % Parseable Addresses in SalesforceIQ Database
+   -
+
+      Currently only 30% of addresses on contact-based lists and 15% of
+      addresses on account-based lists are eligible to be parsed for V1
+      -
+
+         The majority of our customers only have partial addresses inputted
+         in the 'Address' field today.
+         -
+
+         We expect the % of parseable addresses in our system to grow once
+         Import V2 ships and it becomes possible to concatenate
+address fields from
+         an XLS into a single mailing address cell
+         -
+
+   Usage Rate
+   -
+
+      Goal of 50% of all orgs using address properties by December 2016
+      based on Account Property baseline
+
+
+*Marketing:*
+
+   -
+
+   Blog post coming soon to be released in conjunction with Custom Contact
+   Properties launch.
+
+
+*Support Material:*
+
+   -
+
+   Help Center documentation will be published before external launch and
+   shared with next release update.
+
+
+*Known Issues:*
+
+   -
+
+   Large number of incomplete/partial addresses in the system due to import
+   UI and previous lack of parsing ability. Only full mailing addresses
+   will be parsed to maintain accuracy; incomplete/partial addresses will not
+   be parsed for V1 (See metrics section above)
+   -
+
+   Sporadic failures to parse when adding addresses directly to the Grid. (
+   https://jira.salesforceiq.com/browse/CRM-16011)
+   -
+
+   The app does not parse the address properly when the user has added more
+   than 2 contact addresses and there is no primary. (
+   https://jira.salesforceiq.com/browse/CRM-12811)
+
+
+*Bugs:*
+
+   -
+
+   Please submit all feedback and bugs to bugs@relateiq.com and cc Alexis
+   Smith.
+
+
+*People: *
+Gabe K, Neville, Alexis R, Henry, Danny, Jón, Matt M., Joe M, Kris, Ben,
+Catriona, Hang, Kelly, Alex M., Annie, Alexis S
