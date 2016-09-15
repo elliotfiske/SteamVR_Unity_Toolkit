@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using System.Collections;
 using System.Collections.Generic;
 using System;
 using System.Text.RegularExpressions;
@@ -35,7 +34,8 @@ public class EmailLoader : MonoBehaviour {
             string body = m.Groups[5].Value;
 
             Email sbemail = new Email(subject, sender, date, snippet, body);
-
+            
+            
             emails.Add(sbemail);
         }
 
@@ -53,12 +53,15 @@ public class EmailLoader : MonoBehaviour {
                 emailPosn.y = 0;
                 currDay = emailDay;
 
-                GameObject newDay = GameObject.Instantiate(dayPrefab, emailPosn + new Vector3(0, 1, 0), faceFront) as GameObject;
+                GameObject newDay = GameObject.Instantiate(dayPrefab, this.transform) as GameObject;
+                newDay.transform.localPosition = emailPosn + new Vector3(0, 1, 0);
                 Text bleh = newDay.transform.FindChild("DayText").GetComponent<Text>();
                 bleh.text = String.Format("{0:dddd, MMMM d}", emailDay);
             }
 
-            GameObject newBrick = GameObject.Instantiate(emailPrefab, emailPosn, faceFront) as GameObject;
+            GameObject newBrick = GameObject.Instantiate(emailPrefab, this.transform) as GameObject;
+            newBrick.transform.localPosition = emailPosn;
+            newBrick.transform.localRotation = faceFront;
 
             Text subj = newBrick.transform.FindChild("EmailCanvas/SubjectText").GetComponent<Text>();
             subj.text = sbemail.subject;
@@ -67,6 +70,7 @@ public class EmailLoader : MonoBehaviour {
             send.text = sbemail.sender;
 
             Text snipply = newBrick.transform.FindChild("EmailCanvas/SnippetText").GetComponent<Text>();
+            System.Net.
             snipply.text = sbemail.snippet;
 
             Text timeguy = newBrick.transform.FindChild("EmailCanvas/TimeText").GetComponent<Text>();
