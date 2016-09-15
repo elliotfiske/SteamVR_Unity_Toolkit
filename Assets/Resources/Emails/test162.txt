@@ -1,0 +1,20 @@
+Upcoming Crypter Changes
+Jon Gretarsson <jon@salesforceiq.com>
+1472596304000
+Beloved team, In anticipation of expanding our data center presence across multiple continents, I will be moving crypter into a partial-read-only mode this afternoon, which I expect to last for the
+Beloved team,
+
+In anticipation of expanding our data center presence across multiple
+continents, I will be moving crypter into a partial-read-only mode
+<https://github.com/relateiq/crypter-service/pull/114/files#diff-3cc2d8f7173fd0ee89c59af790df87bbR326>
+this afternoon, which I expect to last for the duration of the day.  What
+this means to you is that if you are hoping to provision new *roles*, or
+assign *new permissions* to existing roles, please abstain for the day.  Or
+reach out to me directly.
+
+If you would like to follow along, I'll be performing status updates and
+plan discussion in #multidc-crypter, which has all of the relevant
+documentation pinned to the channel.
+
+Bromide and Salamanders,
+  - Jón Tómas

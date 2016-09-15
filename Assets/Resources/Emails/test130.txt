@@ -1,0 +1,37 @@
+Wait to upgrade to MacOS Sierra
+IT Central <itcentral@salesforce.com>
+1472753033000
+Sierra is not yet approved for Salesforce use MacOS Sierra is not yet approved for Salesforce use Rumor has it that Apple&#39;s new MacOS Sierra release is just around the corner. We know you&#39;re
+
+
+MacOS Sierra is not yet approved for Salesforce use 
+
+Rumor has it that Apple's new MacOS Sierra release is just around the corner. We know you're excited about Sierra (we are, too!) but Sierra is not  approved for Salesforce use. 
+
+For now, we've restricted the ability to upgrade to the Sierra and beta, but we're hoping to have this ready within the next couple of weeks. If by chance you already upgraded, your machine will no longer be security compliant and must be reimaged. 
+
+When can I upgrade? 
+
+We anticipate Sierra will be approved for Salesforce use in the next few weeks.Once approved, the current El Capitan (10.11), Yosemite (OSX 10.10) and Mavericks (OSX 10.9) users will have the ability to conduct self upgrade. (Yes, you heard it right - no need to log a ticket or contact IT!)
+
+Thanks for your understanding and patience as we complete our assessment. 
+
+Need help or have questions?
+Post questions in 
+http://cl.s8.exct.net/?qs=48a1db1aedfb5922a092fa816a55d27bce48ed496a9577635864db6e2d112f18 
+IT Client EngChatter group.  
+
+http://cl.s8.exct.net/?qs=7271c47a0de1a0e92c047ca9a668322ff287fa118fd00146f80b47f22f0b7160 
+
+Browse our library of how-to documents and videos and see the latest updates from IT at 
+http://cl.s8.exct.net/?qs=73c614c30a81b999da1141bb4b643d4a81986316f14e30d9ca7ffc5f6280233f 
+salesforce.com/itcentral  or join the conversation on 
+http://cl.s8.exct.net/?qs=c41bcce94d4b374490b1df74912f014b1cb61258c56ce0bfae0c331153c59024 
+IT Central Chatter .
+
+http://view.s8.exacttarget.com/?qs=a773470888fc312d614cb1a2d377c87c9f9028598960cd2dacc116f7889591b3bff5d6d5233c138e010a340c47afa5093d8c848de4c3b7be163d6774a2771b40 
+Web Version 
+
+
+
+

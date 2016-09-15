@@ -1,0 +1,28 @@
+Priority Bugs 8/29-9/2
+Krishna Kolapalli <kkolapalli@salesforce.com>
+1472590615000
+Team, Thanks for working on bugs before the due date. We have 18 bugs this week including only 1 overdue P2(Madhav) Byron, Edita, Eli, Patrick, Seth - 1 Each Keven, Percy - 2 Each Madhav - 9 Bugs
+Team,
+
+Thanks for working on bugs before the due date. We have 18 bugs this week
+including only 1 overdue P2(Madhav)
+
+Byron, Edita, Eli, Patrick, Seth - 1 Each
+Keven, Percy - 2 Each
+Madhav - 9
+
+Bugs Assigned to you here
+<https://jira.salesforceiq.com/issues/?filter=11302&jql=project%20%3D%20INB%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(%22To%20Do%22%2C%20Reopened%2C%20%22In%20Progress%22)%20AND%20priority%20in%20(P2%2C%20P1%2C%20P0%2C%20%22Code%20Red%22)%20AND%20due%20%3C%3D%205d%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20assignee%20ASC%2C%20due%20ASC>
+
+For the record, our P1 SLA went up to 95% from 85% in last 2 weeks and P2
+SLA went down  from 100% to 85%. Our goal is to hit 90% for both P1/P2 bugs.
+
+
+
+
+-- 
+
+
+KoalaTeam,
+Krishna | 510.541.1902
+*SalesforceIQ*

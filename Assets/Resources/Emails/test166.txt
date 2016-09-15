@@ -1,0 +1,12 @@
+Inbox desktop team on debt day tmr
+Keven Wang <keven@salesforceiq.com>
+1472590412000
+Inbox web team will be on debt day tomorrow. For those interested, here&#39;re the tasks we plan to tackle: https://jira.salesforceiq.com/secure/RapidBoard.jspa?rapidView=162&amp;projectKey=
+Inbox web team will be on debt day tomorrow.
+
+
+For those interested, here're the tasks we plan to tackle:
+https://jira.salesforceiq.com/secure/RapidBoard.jspa?rapidView=162&projectKey=INB&view=planning&selectedIssue=INB-7714
+
+We will be in Santana in 117. Come say hi! (Or on hangout:
+https://hangouts.google.com/hangouts/_/salesforce.com/desktop-debt)

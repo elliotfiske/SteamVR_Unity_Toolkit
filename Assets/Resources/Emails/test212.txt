@@ -1,0 +1,95 @@
+Re: First Fast Deploy
+Raymond Sun <raymond.sun@salesforce.com>
+1472177043000
+huge milestone!! Thanks Izet and team for the awesome work! Raymond Mingliang Sun SalesforceIQ Production Engineering | SRE 502 Emerson St. | Palo Alto, CA 94301 408-477-6180 | raymond.sun@salesforce.
+huge milestone!! Thanks Izet and team for the awesome work!
+
+Raymond Mingliang Sun
+
+SalesforceIQ
+Production Engineering | SRE
+502 Emerson St. | Palo Alto, CA 94301
+408-477-6180 | raymond.sun@salesforce.com <mingliang.sun@salesforce.com>
+
+On Fri, Aug 26, 2016 at 5:50 AM, Sam Kligman <skligman@salesforce.com>
+wrote:
+
+> Fantastic!!
+> <http://gph.is/2aspHqh>
+>
+> Best,
+> Sam
+>
+> <http://www.linkedin.com/in/samkligman/>*Sam Kligman *
+> Senior PM | SalesforceIQ CRM
+> 502 Emerson Street | Palo Alto, CA 94301
+> 415.715.7557 | skligman@salesforce.com
+>
+> Learn more about us on the SalesforceIQ blog
+> <https://www.salesforceiq.com/blog> and sign up for a free trial
+> <https://app.salesforceiq.com/signup> today!
+> --
+>
+> On Thu, Aug 25, 2016 at 1:03 PM, Izet Salihbegovic <
+> isalihbegovic@salesforce.com> wrote:
+>
+>> Thank you all!  Br. Eckhart helped a lot :)
+>>
+>> On Thu, Aug 25, 2016 at 12:38 PM, Keven Wang <keven@salesforceiq.com>
+>> wrote:
+>>
+>>> Faster iteration = awesome! Great work team!!!
+>>>
+>>> On Thu, Aug 25, 2016 at 12:13 PM, Joseph Stevens <
+>>> joestevens@salesforceiq.com> wrote:
+>>>
+>>>> WOOOOOOOOOO!!!!
+>>>> Great work Izet!
+>>>>
+>>>> On Thu, Aug 25, 2016 at 11:14 AM Ankush Goyal <
+>>>> ankush.goyal@salesforce.com> wrote:
+>>>>
+>>>>> Great work Izet and team!
+>>>>>
+>>>>> On August 25, 2016 at 11:12 AM, Q Hu<qhu@salesforce.com> wrote:
+>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>> --
+>>>>> *Qixiu Hu *| SalesforceIQ <https://www.salesforceiq.com/> | 502
+>>>>> Emerson Street, Palo Alto, CA 94301 | qhu@salesforce.com
+>>>>>
+>>>>> On Aug 25, 2016, at 11:05 AM, Mike Grinolds <mgrinolds@salesforce.com>
+>>>>> wrote:
+>>>>>
+>>>>> Awesome work!!!
+>>>>>
+>>>>> On Thu, Aug 25, 2016 at 11:03 AM, Br. Eckhart Camden OSB <
+>>>>> ccamden@salesforce.com> wrote:
+>>>>>
+>>>>>> Just wanted to let everyone know that we have just successfully
+>>>>>> deployed our first "no build" canary deployment, thanks to the project that
+>>>>>> Izet has been working on.
+>>>>>>
+>>>>>> <image.png>
+>>>>>> As you can see, we are now running an RC build in Canary.
+>>>>>>
+>>>>>> Look Ma, no build!
+>>>>>>
+>>>>>> Congratulations to Izet on reaching this milestone!
+>>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>
+>>
+>>
+>> --
+>> Izet Salihbegovic | LMTS | (415) 994-8356 | SalesforceIQ |
+>> http://salesforce.com
+>> [image: View Izet Salihbegovic's profile on LinkedIn]
+>> <https://www.linkedin.com/in/izetsalihbegovic>
+>>
+>
+>

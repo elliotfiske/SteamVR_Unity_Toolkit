@@ -1,0 +1,18 @@
+Ingestion Metrics - Release Update
+Ankush Goyal <ankush.goyal@salesforce.com>
+1473447426000
+What: Ingestion Metrics for everything we crawl. When: We have ramped Ingestion metrics to 100% of orgs today morning Dashboard: https://app.datadoghq.com/dash/167930/ingestion-metrics-processing?live=
+*What*: Ingestion Metrics for everything we crawl.
+
+*When*: We have ramped Ingestion metrics to 100% of orgs today morning
+
+*Dashboard*:
+https://app.datadoghq.com/dash/167930/ingestion-metrics-processing?live=true&page=0&is_auto=true&from_ts=1473432315986&to_ts=1473446715986&tile_size=m
+
+*Who*: Scott Bishel
+
+-- 
+Cheers,
+-Ankush Goyal
+SalesforceIQ
+219-256-9580

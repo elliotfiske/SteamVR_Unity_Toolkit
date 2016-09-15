@@ -1,0 +1,97 @@
+Re: Priority Bugs 9/6-9/9
+Krishna Kolapalli <kkolapalli@salesforce.com>
+1473360424000
+Update: With 2 days to go we still have 22 bugs need to be addressed including 4 Overdue ( 1 Ahmet, 1 Percy, 2 Zachary) Byron, Elliot, Hiro, Madhav,Shardul, Robert - 1 Each Eli- 3 Ahmet - 4 Percy,
+*Update:*
+
+With 2 days to go we still have 22 bugs need to be addressed including 4
+Overdue ( 1 Ahmet, 1 Percy, 2 Zachary)
+
+Byron, Elliot, Hiro, Madhav,Shardul, Robert - 1 Each
+Eli- 3
+Ahmet - 4
+Percy, Zachary -2 Each
+Keven - 5
+
+
+Overdue Bugs assigned to you here
+<https://jira.salesforceiq.com/issues/?filter=10705&jql=project%20%3D%20INB%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(%22To%20Do%22%2C%20Reopened%2C%20%22In%20Progress%22)%20AND%20priority%20%3D%20P1%20AND%20due%20%3C%3D%20-1d%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20due%20ASC%2C%20assignee%20ASC%2C%20summary%20ASC%2C%20key%20ASC>
+.
+
+All Bugs for rest of the week assigned to you here
+<https://jira.salesforceiq.com/issues/?filter=11302&jql=project%20%3D%20INB%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(%22To%20Do%22%2C%20Reopened%2C%20%22In%20Progress%22)%20AND%20priority%20in%20(P2%2C%20P1%2C%20P0%2C%20%22Code%20Red%22)%20AND%20due%20%3C%3D%204d%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20due%20ASC%2C%20assignee%20ASC>
+.
+
+Lets crush them. Please ping me if you have any questions.
+
+
+
+On Wed, Sep 7, 2016 at 9:30 AM, Krishna Kolapalli <kkolapalli@salesforce.com
+> wrote:
+
+> Team,
+>
+> We have 8 Overdue Bugs as of Today. Reminder that these Overdue bugs will
+> affect the SLA negatively. Try to look into them asap.
+>
+> Eli, Percy, Zachary - 1 Each
+> Shardul - 3
+> Madhav - 2.
+>
+> Overdue Bugs assigned to you here
+> <https://jira.salesforceiq.com/issues/?filter=10705&jql=project%20%3D%20INB%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(%22To%20Do%22%2C%20Reopened%2C%20%22In%20Progress%22)%20AND%20priority%20%3D%20P1%20AND%20due%20%3C%3D%20-1d%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20due%20ASC%2C%20assignee%20ASC%2C%20summary%20ASC%2C%20key%20ASC>
+> .
+>
+> All Bugs for rest of the week assigned to you here
+> <https://jira.salesforceiq.com/issues/?filter=11302&jql=project%20%3D%20INB%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(%22To%20Do%22%2C%20Reopened%2C%20%22In%20Progress%22)%20AND%20priority%20in%20(P2%2C%20P1%2C%20P0%2C%20%22Code%20Red%22)%20AND%20due%20%3C%3D%204d%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20due%20ASC%2C%20assignee%20ASC>
+> .
+>
+> Please ping me if you have any questions.
+>
+> On Tue, Sep 6, 2016 at 1:50 PM, Krishna Kolapalli <
+> kkolapalli@salesforce.com> wrote:
+>
+>> Team,
+>>
+>> We have 34 bugs this week including 4 Overdue( 3- Madhav, 1 -Byron).
+>> Please take a look and fix before the due date.
+>>
+>> Percy - 8
+>> Madhav, Keven - 5 Each
+>> Ahmet, Shardul - 4 Each
+>> Eli - 3
+>> Byron, Elliot, Hiro, Pedro, Robert - 1 Each
+>>
+>>
+>> Bugs Assigned to you here
+>> <https://jira.salesforceiq.com/issues/?filter=11302&jql=project%20%3D%20INB%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(%22To%20Do%22%2C%20Reopened%2C%20%22In%20Progress%22)%20AND%20priority%20in%20(P2%2C%20P1%2C%20P0%2C%20%22Code%20Red%22)%20AND%20due%20%3C%3D%205d%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20due%20ASC%2C%20assignee%20ASC>
+>> .
+>>
+>> Ping me if you have any Questions.
+>>
+>> --
+>>
+>>
+>> KoalaTeam,
+>> Krishna | 510.541.1902
+>> *SalesforceIQ*
+>>
+>
+>
+>
+> --
+>
+>
+> KoalaTeam,
+> Krishna | 510.541.1902
+> *SalesforceIQ*
+>
+
+
+
+-- 
+
+
+KoalaTeam,
+Krishna | 510.541.1902
+*SalesforceIQ*

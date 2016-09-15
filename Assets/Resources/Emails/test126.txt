@@ -1,0 +1,11 @@
+Prod push freeze for Dreamforce
+"Br. Eckhart Camden OSB" <ccamden@salesforce.com>
+1472761087000
+We are planning to freeze prod pushes a week before Dreamforce. You should plan to have all new work ready by the push on Thursday, September 22. We will reserve Monday the 26th for pushing any last-
+We are planning to freeze prod pushes a week before Dreamforce.  You should
+plan to have all new work ready by the push on Thursday, September 22.  We
+will reserve Monday the 26th for pushing any last-minute fixes.  After the
+26th, the only things we would be willing to push are P0/CodeRed or
+Dreamforce-critical fixes.
+
+Koala Team

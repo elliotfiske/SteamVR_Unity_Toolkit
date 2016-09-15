@@ -1,0 +1,23 @@
+iOS Inbox hockey app crash and fix
+Madhav Vaidyanathan <madhav.vaidyanathan@salesforce.com>
+1472780722000
+Hi All If you use the iOS SalesforceIQ hockey app, it&#39;s currently crashing on startup, because the iOS Enterprise Certificate expired on the last hockey app release. The latest Inbox hockeyapp
+Hi All
+
+If you use the iOS SalesforceIQ hockey app, it's currently crashing on
+startup, because the iOS Enterprise Certificate expired on the last hockey
+app release.
+
+The latest Inbox hockeyapp version now works.  Unfortunately, the Inbox app
+crashes before you can see the "Update version" popup that usually
+displays, when a new iOS Inbox hockey app is available.
+
+To fix this, you'll need to download the latest iOS SalesforceIQ Inbox
+hockeyapp, by opening the iOS Safari browser, and going to
+
+https://rink.hockeyapp.net/apps/5c87add14b06748916d77e505e17a5ec
+
+If you have any questions, please email me or slack #inbox-questions
+
+Thanks,
+Madhav

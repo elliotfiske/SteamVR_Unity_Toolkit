@@ -1,0 +1,80 @@
+Re: Feedback from Calendar Beta user (Streaming Ltd)
+Fabian Frank <ffrank@salesforce.com>
+1472858051000
+This is amazing feedback, thank you very much Alex for running these pilots! On Fri, Sep 2, 2016 at 2:19 PM, &lt;alex.noe@salesforce.com&gt; wrote: Full detail in 1pager (https://docs.google.com/a/
+This is amazing feedback, thank you very much Alex for running these pilots!
+
+On Fri, Sep 2, 2016 at 2:19 PM, <alex.noe@salesforce.com> wrote:
+
+> Full detail in 1pager (https://docs.google.com/a/
+> salesforce.com/document/d/16Jwc_tr_9WSKnDCdADl-
+> xA52qVXEFaheyHoOlU9FMiQ/edit?usp=sharing)
+>
+> Next steps:
+> -Make the “Log Event to Salesforce” text more prominent
+> -Bug: auto suggests number of attendees on Log Event screen, but when you
+> click to select the checkboxes are not selected
+> -Bug: Office365 meeting notes for log event shows HTML, should show
+> plaintext
+>
+> Background - uses other tools:
+> -linkpoint360 - Best Outlook for Windows application - everything I need
+> to move quickly
+> -cirrus -”its ok” “a few good tools in it” “one of the best email
+> tracking” - good for seeing everything you need in your email, not
+> salesforce web
+>
+> Likes:
+> -Bottom nav - easy to navigate
+> -”Calendar is great”
+>
+> Dislikes:
+> -On month view show dots for days with events
+> -Didn’t notice log event
+>
+> Other comments:
+> -Inbox Outlook - doesnt honor default browser (hates IE)
+> -IFT - hard to find output to change duration of meeting
+> -ContactsIQ: takes up a lot of real estate with someones picture, give
+> more Salesforce context
+> -Thread view has different swipe actions than inbox view
+> -Bring more Salesforce info into the app so you don’t need to pivot to S1
+> (he likes Cirrus iPad app, better than their iPhone app)
+>
+> Optional: Calendar Beta user feedback (Streaming Ltd)
+>
+> *When*
+> Fri Sep 2, 2016 1:30pm – 2pm Pacific Time
+>
+> *Where*
+> Warhol (map <https://maps.google.com/maps?q=Warhol&hl=en>)
+>
+> *Who*
+> •
+> alex.noe@salesforce.com - organizer
+> •
+> ffrank@salesforce.com - optional
+> •
+> ehickox@salesforce.com - optional
+> •
+> jcromer@salesforce.com - optional
+> •
+> efiske@salesforce.com - optional
+> •
+> dfernandez@salesforce.com - optional
+> •
+> madhav.vaidyanathan@salesforce.com - optional
+> •
+> penrique@salesforce.com - optional
+> •
+> wroller@salesforce.com - optional
+> •
+> zcohen@salesforce.com - optional
+> •
+> wku@salesforce.com - optional
+>
+
+
+
+-- 
+Sent with SalesforceIQ Inbox

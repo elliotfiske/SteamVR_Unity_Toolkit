@@ -1,0 +1,90 @@
+Re: [JIRA-SFIQ] (INB-9140) ISIQ-484 Calendar: The app does not save the changes in the event Subject (Log Event)
+Elliot Fiske <efiske@salesforce.com>
+1472849409000
+Event Title: [JIRA-SFIQ] (INB-9140) ISIQ-484 Calendar: The app does not save the changes in the event Subject (Log Event) View in browser Please select a meeting time by clicking on an available time
+
+
+
+Event Title: [JIRA-SFIQ] (INB-9140) ISIQ-484 Calendar: The app does not save the changes in the event Subject (Log Event)(https://app.salesforceiq.com/public/chrome_extension/confirm-release/confirm-app.html?t=AFwhZf1ygoxrDpLKh8PMdI1fTZzdVRcVnlULYDLBDDJqLX8f1LzGCxU2Khe4YXavEodQ7jtoWzPPbEnbKPhJO4RYZ7GAxunjEzWqzgiyOS8X2Bnu9yIvWpxDnpjrlgQ6fl0ENbC3hgWf&view=true)
+
+View in browser(https://app.salesforceiq.com/public/chrome_extension/confirm-release/confirm-app.html?t=AFwhZf1ygoxrDpLKh8PMdI1fTZzdVRcVnlULYDLBDDJqLX8f1LzGCxU2Khe4YXavEodQ7jtoWzPPbEnbKPhJO4RYZ7GAxunjEzWqzgiyOS8X2Bnu9yIvWpxDnpjrlgQ6fl0ENbC3hgWf&view=true)
+
+
+
+Please select a meeting time by clicking on an available time below (All times are US/Pacific).
+
+Friday​ 9​/2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by
+SalesforceIQ
+
+(https://www.salesforceiq.com/technology?utm_source=freetime)
+
+On September 2, 2016 at 11:56 AM, Madhav Vaidyanathan (JIRA)<JIRA@salesforceiq.com(mailto:JIRA@salesforceiq.com)>wrote:
+
+> Madhav Vaidyanathan(https://jira.salesforceiq.com/secure/ViewProfile.jspa?name=madhav.vaidyanathan)assignedan issue toElliot Fiske(https://jira.salesforceiq.com/secure/ViewProfile.jspa?name=elliot.fiske)
+>  
+>  
+> INBOX(https://jira.salesforceiq.com/browse/INB)/INB-9140(https://jira.salesforceiq.com/browse/INB-9140)
+>  
+> ISIQ-484 Calendar: The app does not save the changes in the event Subject (Log Event)(https://jira.salesforceiq.com/browse/INB-9140)
+>  
+>  
+>  
+>  
+>  
+> Change By:
+> Madhav Vaidyanathan(https://jira.salesforceiq.com/secure/ViewProfile.jspa?name=madhav.vaidyanathan)
+>  
+> Assignee:
+> MadhavVaidyanathanElliotFiske
+>  
+>  
+>  
+>  
+>  
+>  
+> Add Comment(https://jira.salesforceiq.com/browse/INB-9140#add-comment)
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+> This message was sent by Atlassian JIRA(v6.4.10#64025-sha1:5b8b740)
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+

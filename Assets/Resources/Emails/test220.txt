@@ -1,0 +1,60 @@
+Re: First Fast Deploy
+Izet Salihbegovic <isalihbegovic@salesforce.com>
+1472155411000
+Thank you all! Br. Eckhart helped a lot :) On Thu, Aug 25, 2016 at 12:38 PM, Keven Wang &lt;keven@salesforceiq.com&gt; wrote: Faster iteration = awesome! Great work team!!! On Thu, Aug 25, 2016 at 12:
+Thank you all!  Br. Eckhart helped a lot :)
+
+On Thu, Aug 25, 2016 at 12:38 PM, Keven Wang <keven@salesforceiq.com> wrote:
+
+> Faster iteration = awesome! Great work team!!!
+>
+> On Thu, Aug 25, 2016 at 12:13 PM, Joseph Stevens <
+> joestevens@salesforceiq.com> wrote:
+>
+>> WOOOOOOOOOO!!!!
+>> Great work Izet!
+>>
+>> On Thu, Aug 25, 2016 at 11:14 AM Ankush Goyal <
+>> ankush.goyal@salesforce.com> wrote:
+>>
+>>> Great work Izet and team!
+>>>
+>>> On August 25, 2016 at 11:12 AM, Q Hu<qhu@salesforce.com> wrote:
+>>>
+>>>
+>>>
+>>>
+>>> --
+>>> *Qixiu Hu *| SalesforceIQ <https://www.salesforceiq.com/> | 502 Emerson
+>>> Street, Palo Alto, CA 94301 | qhu@salesforce.com
+>>>
+>>> On Aug 25, 2016, at 11:05 AM, Mike Grinolds <mgrinolds@salesforce.com>
+>>> wrote:
+>>>
+>>> Awesome work!!!
+>>>
+>>> On Thu, Aug 25, 2016 at 11:03 AM, Br. Eckhart Camden OSB <
+>>> ccamden@salesforce.com> wrote:
+>>>
+>>>> Just wanted to let everyone know that we have just successfully
+>>>> deployed our first "no build" canary deployment, thanks to the project that
+>>>> Izet has been working on.
+>>>>
+>>>> <image.png>
+>>>> As you can see, we are now running an RC build in Canary.
+>>>>
+>>>> Look Ma, no build!
+>>>>
+>>>> Congratulations to Izet on reaching this milestone!
+>>>>
+>>>
+>>>
+>>>
+>
+
+
+-- 
+Izet Salihbegovic | LMTS | (415) 994-8356 | SalesforceIQ |
+http://salesforce.com
+[image: View Izet Salihbegovic's profile on LinkedIn]
+<https://www.linkedin.com/in/izetsalihbegovic>

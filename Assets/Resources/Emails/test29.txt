@@ -1,0 +1,26 @@
+Re: Ingestion Metrics - Release Update
+Shardul Vikram <svikram@salesforce.com>
+1473448359000
+Great job team ! These metrics would be powering the data management screen in the Inbox Admin Console. On Fri, Sep 9, 2016 at 11:57 AM, Ankush Goyal &lt;ankush.goyal@salesforce.com&gt; wrote: What:
+Great job team ! These metrics would be powering the data management screen
+in the Inbox Admin Console.
+
+On Fri, Sep 9, 2016 at 11:57 AM, Ankush Goyal <ankush.goyal@salesforce.com>
+wrote:
+
+> *What*: Ingestion Metrics for everything we crawl.
+>
+> *When*: We have ramped Ingestion metrics to 100% of orgs today morning
+>
+> *Dashboard*: https://app.datadoghq.com/dash/167930/
+> ingestion-metrics-processing?live=true&page=0&is_auto=true&
+> from_ts=1473432315986&to_ts=1473446715986&tile_size=m
+>
+> *Who*: Scott Bishel
+>
+> --
+> Cheers,
+> -Ankush Goyal
+> SalesforceIQ
+> 219-256-9580
+>

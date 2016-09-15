@@ -1,0 +1,66 @@
+204 SB2 Major Release R&D All Clear
+Junaid Basir <jbasir@salesforce.com>
+1473537819000
+Bcc: !Maintenance Notification; # CFL, Global Technical Support – Leadership ; !Release Deployment Team; !HQ R&amp;D; ** Stallapragada Team; ** Randy Kern - All Managers; IT Scrum - G4G Performance; IT
+Bcc: !Maintenance Notification; # CFL, Global Technical Support –
+Leadership ; !Release Deployment Team; !HQ R&D; ** Stallapragada Team; **
+Randy Kern - All Managers; IT Scrum - G4G Performance; IT G4G Execution
+Runlist
+
+
+This is the R&D ALL CLEAR message for the 204 Winter '16 SB2 Major Release
+~ CS5 SR1 CS31 SR2 SR3
+
+Escalation Path after the ALL CLEAR:
+
+   -
+
+   SR Toll-Free Number: +1-866-915-6237
+   -
+
+   Email the ProdMessage email alias
+   -
+
+   Call Release Manager On-Call: Junaid Basir
+
+Weekend After Coverage:
+
+Saturday, September 10th
+
+   -
+
+   First call at 9:00am Pacific Time
+   -
+
+   GoToMeeting: https://www1.gotomeeting.com/join/207145153
+
+
+   -
+
+   Dial-In: +1 (877) 309-2070;  Access Code: 207-145-153
+   -
+
+   Release Manager: Kate Gentry
+
+
+Sunday, September 11th
+
+   -
+
+   First call at 9:00am Pacific Time
+   -
+
+   GoToMeeting: https://global.gotomeeting.com/join/282129885
+   <https://www.google.com/url?q=https%3A%2F%2Fglobal.gotomeeting.com%2Fjoin%2F282129885&sa=D&ust=1473478282281000&usg=AFQjCNEU8lnlvxLkXXvN9wzfq34qK_X_oA>
+
+
+   -
+
+   Dial-In: +1 (877) 309-2070;  Access Code: 282-129-885
+   -
+
+   Release Manager: Junaid Basir
+
+Cheers,
+
+Junaid

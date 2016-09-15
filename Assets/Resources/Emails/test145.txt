@@ -1,0 +1,15 @@
+Salesforce Inbox for Android v2.5.14 released
+Evan Ku <wku@salesforce.com>
+1472675323000
+Hi Team: Today the Android team released version 2.5.14 of Salesforce Inbox for Android. This is a bug-fix release that fixes an app crash issue in creating contact flow, which only affect Android 4.4
+Hi Team:
+
+Today the Android team released version 2.5.14 of Salesforce Inbox for
+Android. This is a bug-fix release that fixes an app crash issue in
+creating contact flow, which only affect Android 4.4 devices. Notice that
+Android 4.4 is an old version of Android used by less than 4% of our daily
+active users.
+
+Thanks,
+
+Evan

@@ -1,0 +1,54 @@
+Re: Product Review Schedule
+Alex Noe <alex.noe@salesforce.com>
+1471987877000
+Hi All, Just sent individual invites. Here is the final schedule after suggested changes: Time Project Presenter Team 4:30:00 PM Calendar (iOS / Android) Anthony All calendar 4:40:00 PM Log File
+Hi All,
+
+Just sent individual invites.  Here is the *final schedule* after suggested
+changes:
+
+Time Project Presenter Team
+4:30:00 PM Calendar (iOS / Android) Anthony All calendar
+4:40:00 PM Log File Attachment (Outlook) Matt/Robert Matt, Robert, Kyle,
+Keven
+4:50:00 PM UX Update (Outlook) Matt Esteban, Hiro, Keven
+5:00:00 PM Tasks (Outlook, iOS, Android) Flora Fabian, Madhav, Evan
+5:10:00 PM Custom Required Fields (Desktop) Sy Sy, Keven, Eli
+5:20:00 PM Adtl Custom Required Fields (All) Eli / Alex Eli, Keven, Percy,
+Sy, Madhav, Evan, (Fabian)
+5:30:00 PM ActivityIQ in Clients (All) Hacker / Alex Percy
+5:40:00 PM Gmail Connector Ankush Maddy
+5:50:00 PM Ingestion Data Metrics Ankush Maddy
+6:00:00 PM Multi DC Ankush Maddy
+
+Thanks!
+Alex
+
+On Tue, Aug 23, 2016 at 12:11 PM, Alex Noe <alex.noe@salesforce.com> wrote:
+
+> HI All,
+>
+> Here is the schedule for Product Review tonight.  I will block send out
+> individual invites in a few minutes to the appropriate teams.
+>
+> As always everyone is welcome to join everything.  Will be in 117-Warhol
+> and on Google Hangouts
+> <https://plus.google.com/hangouts/_/salesforce.com/hold-inbox>.
+>
+> Time Project Presenter Team
+> 4:30:00 PM Calendar (iOS / Android) Zack/Anthony All calendar
+> 4:50:00 PM Log File Attachment (Outlook) Matt/Robert Flora, Matt, Robert,
+> Kyle, Keven
+> 5:00:00 PM UX Update (Outlook) Matt Flora, Esteban, Hiro, Keven
+> 5:10:00 PM Tasks (Outlook, iOS, Android) Flora Fabian, Madhav, Evan
+> 5:20:00 PM Custom Required Fields (Desktop) Sy Alex, Keven, Eli
+> 5:30:00 PM Adtl Custom Required Fields (All) Eli / Alex Eli, Keven,
+> Percy, Sy, Madhav, Evan, (Fabian)
+> 5:40:00 PM ActivityIQ in Clients (All) Hacker/Percy Alex, Hacker, Percy
+> 5:50:00 PM Gmail Connector Ankush Maddy
+> 6:00:00 PM Ingestion Data Metrics Ankush Maddy
+> 6:10:00 PM Multi DC Ankush Maddy
+>
+> Thanks!
+> Alex
+>

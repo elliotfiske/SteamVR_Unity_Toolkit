@@ -1,0 +1,23 @@
+Update on Office Printers
+Iman Frans <ifrans@salesforce.com>
+1473204241000
+Hi Team, On Friday, new printers were delivered and installed. No action is needed on your end unless your default printer was the 124U HP Big Boy on the 2nd Floor as it has been replaced with a Canon
+Hi Team,
+
+On Friday, new printers were delivered and installed.  No action is needed
+on your end unless your default printer was the 124U HP Big Boy on the 2nd
+Floor as it has been replaced with a Canon MFP.  If you sit on the 2nd
+floor at 124U and need to print, you'll need to setup the new printer.
+
+For your reference, the printer setup page
+<https://confluence.relateiq.com/display/IKB/Printers> in Confluence has
+been updated.  If you have any questions, please let us know.
+
+Thanks,
+-IT Team
+
+-- 
+*Iman Frans*
+*IT Manager - SalesforceIQ *
+502 Emerson Street | Palo Alto, CA 94301
+Office: 650.461.4544 ext. 1030 | Mobile: 650.646.1693

@@ -1,0 +1,28 @@
+Priority Bugs 9/6-9/9
+Krishna Kolapalli <kkolapalli@salesforce.com>
+1473195048000
+Team, We have 34 bugs this week including 4 Overdue( 3- Madhav, 1 -Byron). Please take a look and fix before the due date. Percy - 8 Madhav, Keven - 5 Each Ahmet, Shardul - 4 Each Eli - 3 Byron, Elliot
+Team,
+
+We have 34 bugs this week including 4 Overdue( 3- Madhav, 1 -Byron). Please
+take a look and fix before the due date.
+
+Percy - 8
+Madhav, Keven - 5 Each
+Ahmet, Shardul - 4 Each
+Eli - 3
+Byron, Elliot, Hiro, Pedro, Robert - 1 Each
+
+
+Bugs Assigned to you here
+<https://jira.salesforceiq.com/issues/?filter=11302&jql=project%20%3D%20INB%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(%22To%20Do%22%2C%20Reopened%2C%20%22In%20Progress%22)%20AND%20priority%20in%20(P2%2C%20P1%2C%20P0%2C%20%22Code%20Red%22)%20AND%20due%20%3C%3D%205d%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20due%20ASC%2C%20assignee%20ASC>
+.
+
+Ping me if you have any Questions.
+
+-- 
+
+
+KoalaTeam,
+Krishna | 510.541.1902
+*SalesforceIQ*

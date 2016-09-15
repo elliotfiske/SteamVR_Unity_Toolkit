@@ -1,0 +1,14 @@
+Security Lunch n Learn in Rainbow room tomorrow!
+Ryan Flood <ryan.flood@salesforce.com>
+1471909897000
+Hey all, Wanna learn how to sidestep security controls on a bunch of websites? Find and reproduce bugs on our end or even hack other sites? Come for a quick lunch and learn at 12 in the rainbow room! -
+Hey all,
+
+Wanna learn how to sidestep security controls on a bunch of websites?  Find
+and reproduce bugs on our end or even hack other sites?  Come for a quick
+lunch and learn at 12 in the rainbow room!
+
+-- 
+Ryan Flood
+Product Security Engineer
+Salesforce.com

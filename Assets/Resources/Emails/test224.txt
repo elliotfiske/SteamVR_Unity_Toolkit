@@ -1,0 +1,34 @@
+Re: First Fast Deploy
+Ankush Goyal <ankush.goyal@salesforce.com>
+1472148858000
+Great work Izet and team! On August 25, 2016 at 11:12 AM, Q Hu&lt;qhu@salesforce.com&gt; wrote: -- Qixiu Hu | SalesforceIQ | 502 Emerson Street, Palo Alto, CA 94301 | qhu@salesforce.com On Aug 25, 2016
+Great work Izet and team!
+
+On August 25, 2016 at 11:12 AM, Q Hu<qhu@salesforce.com> wrote:
+
+
+
+
+--
+*Qixiu Hu *| SalesforceIQ <https://www.salesforceiq.com/> | 502 Emerson
+Street, Palo Alto, CA 94301 | qhu@salesforce.com
+
+On Aug 25, 2016, at 11:05 AM, Mike Grinolds <mgrinolds@salesforce.com>
+wrote:
+
+Awesome work!!!
+
+On Thu, Aug 25, 2016 at 11:03 AM, Br. Eckhart Camden OSB <
+ccamden@salesforce.com> wrote:
+
+> Just wanted to let everyone know that we have just successfully deployed
+> our first "no build" canary deployment, thanks to the project that Izet has
+> been working on.
+>
+> <image.png>
+> As you can see, we are now running an RC build in Canary.
+>
+> Look Ma, no build!
+>
+> Congratulations to Izet on reaching this milestone!
+>

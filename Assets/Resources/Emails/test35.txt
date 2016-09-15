@@ -1,0 +1,15 @@
+iOS Inbox hockey app "Unable to Download App"
+Madhav Vaidyanathan <madhav.vaidyanathan@salesforce.com>
+1473443107000
+Hi All If you use the iOS SalesforceIQ hockey app, and you get an &quot;Unable to Download App&quot; error, please re-download the app, by opening the iOS Safari browser, and going to https://rink.
+Hi All
+
+If you use the iOS SalesforceIQ hockey app, and you get an "Unable to
+Download App" error, please re-download the app, by opening the iOS Safari
+browser, and going to
+
+https://rink.hockeyapp.net/apps/5c87add14b06748916d77e505e17a5ec
+
+If you have any questions, please email me or slack #inbox-questions.
+
+- Madhav

@@ -1,0 +1,41 @@
+App Store Improvements
+Apple Developer <developer@insideapple.apple.com>
+1472752330000
+Dear Developer, We love helping customers discover innovative, useful, and exciting apps on the App Store. With more than 2 million apps available and around 100000 new and updated apps submitted each
+Apple Developer
+
+------------------------
+
+Dear Developer,
+
+We love helping customers discover innovative, useful, and exciting apps on the App Store. With more than 2 million apps available and around 100,000 new and updated apps submitted each week, there’s something for everyone. To make it easier for customers to find great apps that fit their needs, we’re implementing two suggestions from the developer community starting September 7, 2016.
+
+Quality Apps
+Quality is extremely important to us. We know that many of you work hard to build innovative apps and update your apps on the App Store with new content and features. However, there are also apps on the App Store that no longer function as intended or follow current review guidelines, and others which have not been supported with compatibility updates for a long time. We are implementing an ongoing process of evaluating apps for these issues, notifying their developers, and removing problematic and abandoned apps from the App Store. 
+
+Shorter App Names
+Search is one of the most frequently used methods for customers to discover and download apps from the App Store. In hopes of influencing search results, some developers have used extremely long app names which include descriptions and terms not directly related to their app. These long names are not fully displayed on the App Store and provide no user value. App names you submit in iTunes Connect for new apps and updates will now be limited to no longer than 50 characters. You can learn more about creating effective app names, as well as icons, keywords, screenshots, and descriptions, by reading the App Store Product Page.
+https://developer.apple.com/app-store/product-page/ 
+
+Learn more about App Store improvements. If you have any questions, contact us. 
+https://developer.apple.com/contact/submit/
+
+Best regards,
+
+Apple Developer Relations
+
+------------------------
+Copyright 2016 Apple Inc. 1 Infinite Loop, Cupertino, CA 95014.
+
+All Rights Reserved 
+http://www.apple.com/legal/
+
+Privacy Policy
+http://www.apple.com/legal/privacy/
+
+My Apple ID
+http://appleid.apple.com/
+
+
+If you would prefer not to receive future communications from Apple Developer, you may unsubscribe.
+https://developer.apple.com/unsubscribe/?v=2&la=en_us&a=cyzUTltoh9U2Tvi8r0XFf1B7SrNwsfPOOTC3JuSb6rHTvYCdXYwrRyjvK0yBW47R84RMo0z7MfSn1eiR3eFUnLJYhwUKz%2FSH3HiPD3yGNmQazF%2FJ4cayh%2Bv6iPc3nZSNYIaDTgpwrmPRYs9LS3eC5w%3D%3D

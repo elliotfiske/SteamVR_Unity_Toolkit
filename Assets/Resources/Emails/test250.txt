@@ -1,0 +1,43 @@
+Re: Chrome: now featuring IQB
+Keven Wang <keven@salesforceiq.com>
+1471988310000
+Boom!!! This runs a lot faster! On Tue, Aug 23, 2016 at 1:41 PM, Seth Voltz &lt;seth@salesforceiq.com&gt; wrote: Team, After a long hold while we got Outlook out the door, IQB has finally come to
+Boom!!! This runs a lot faster!
+
+On Tue, Aug 23, 2016 at 1:41 PM, Seth Voltz <seth@salesforceiq.com> wrote:
+
+> Team,
+>
+> After a long hold while we got Outlook out the door, IQB has finally come
+> to Chrome-land.
+>
+> *TL;DR:* from now on, use `iqb start` or `iqb start --staging` to fire up
+> your development environment
+>
+> *Long;Read:*
+>
+> The degulping project that Joe C started for CRM web resulted in the build
+> tool "iqb". It has since been standardized on bedrock projects, used by
+> all the fancy new TypeScript components, and Outlook uses it to great
+> effect for our rapid builds and deploys. Chrome has now also been degulped
+> and uses iqb to its fullest.
+>
+> So what do you do now? You can find all the details by reading the docs on
+> Confluence, reading the README, and using the online help `iqb --help`.
+> Here is a quick mapping of common `gulp` commands to the new iqb usage:
+>
+> gulp karma                    iqb test
+> gulp server                   iqb start
+> gulp serverStaging            iqb start --staging
+> gulp serverStagingNoTests     iqb start --staging --no-tests
+> gulp createServer             iqb serve
+> gulp createServerStaging      iqb serve --staging
+>
+> Please be aware that Chrome dev server is now always HTTPS and you must
+> therefore install and trust a certificate we have created. Instructions are
+> in the README and linked on Confluence.
+>
+> Now, go forth and iqb!
+>
+> – Seth
+>

@@ -1,0 +1,4 @@
+Daily salesforce.com Digest for All Salesforce
+Salesforce Chatter <noreply@chatter.salesforce.com>
+1471592382000
+Daily Digest for All Salesforce Friday, August 19, 2016 Simon Chan Simon Chan Salesforce acquired PredictionIO earlier this year -- ranked by Github the #1 open-source spark-based ML server. I have

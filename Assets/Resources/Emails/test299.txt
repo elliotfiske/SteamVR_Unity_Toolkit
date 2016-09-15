@@ -1,0 +1,107 @@
+Re: Friday Demo Agenda - August 19th
+Joe Chrzanowski <joe@salesforceiq.com>
+1471650649000
+Tom Chan Zepplin: a web-based &quot;notebook&quot; for doing data-analysis type things Sy Le Ability to input salesforce record information from within the chrome extension Zack Cohen and Anthony
+Tom Chan
+
+Zepplin: a web-based "notebook" for doing data-analysis type things
+
+Sy Le
+
+Ability to input salesforce record information from within the chrome
+extension
+
+Zack Cohen and Anthony Annuzzi
+
+Log events and details to sales cloud from ios/android
+
+J&#243;n
+
+Flink is running on a yarn cluster... This is a very big deal because it's
+apparently very hard to do.
+
+Hilary Schulz, Tom Coyle, Harshit Agarwal
+
+SLACK INTEGRATION FINAL DEMO! GO INTERNS!!
+
+Robert Ames
+
+Outlook extension is LIVE with all sorts of fancy new features!
+
+qq demo (command delegation/discovery stuff)
+
+* an amazing video of the outlook team doing a cover of bohemian rhapsody.
+o...mg..... you guys. zomg.*
+
+
+*Bear: *obviously the outlook team for that video (and also getting the
+add-in out... but mostly the video)
+
+*Helmet: *himay, mike, ankush, raymond and anyone else that dealt with
+amazon's BS last night when they killed 2 machines
+
+On Fri, Aug 19, 2016 at 3:46 PM, Karina Chan <karina.chan@salesforce.com>
+wrote:
+
+> Happy Friday team!
+>
+>
+> If you are demoing, please introduce yourself and your team as well as
+> what you will be demoing.
+>
+> Intro: John
+>
+> Mic: Vicky
+>
+> Camera: Vicky
+>
+> Anniversaries:
+>
+> 6 months:
+>
+> Vicky Ho
+>
+> Chalenge Masekera
+>
+> Christopher Rupley
+>
+> Brittany Coates
+>
+> 2 years:
+>
+> Adam Witherspoon - Magnus
+>
+> 2&1:
+>
+> Eddie Ying
+>
+> Demo List:
+>
+> Tom Chan
+>
+> Sy Le
+>
+> Zack Cohen and Anthony Annuzzi
+>
+> Hilary Schulz, Tom Coyle, Harshit Agarwal
+>
+> Robert Ames
+>
+> GoToMeeting: https://global.gotomeeting.com/join/509664901
+>
+> Trophies:  John Fiedler
+>
+> Music: DJ Panda
+>
+> --
+>
+> *Karina Chan*
+>
+> *Salesforce IQ: <http://www.salesforce.com/salesforceiq/overview/> *Smarter
+> Selling, Better Relationships.
+>
+> 502 Emerson Street | Palo Alto, CA 94301
+>
+> [m] 415.350.0217 karina.chan@salesforce.com
+>
+>

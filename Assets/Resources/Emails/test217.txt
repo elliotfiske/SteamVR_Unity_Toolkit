@@ -1,0 +1,29 @@
+C258 Weekly Team Meeting Slides
+Haley Burke <haley.burke@salesforceiq.com>
+1472163305000
+Hi all, I&#39;ll be taking over from Cappy on putting together the weekly team slides now that she&#39;s joined the Trailhead team. HERE are the slides for Monday&#39;s team meeting. Please let me know
+Hi all,
+
+I'll be taking over from Cappy on putting together the weekly team slides
+now that she's joined the Trailhead team.
+
+HERE
+<https://docs.google.com/a/salesforce.com/presentation/d/1K04ESNObNhn3nIunA8VB2c36jsmoGHUwsXRMFWpDpic/edit?usp=sharing>
+are the slides for Monday's team meeting.
+
+Please let me know if you plan to present remotely so we can be prepared
+with the right tech setup.
+
+Thanks,
+Haley
+
+-- 
+
+Haley Burke
+
+SalesforceIQ <https://www.salesforceiq.com/>: Smarter Selling, Better
+Relationships.
+
+502 Emerson Street | Palo Alto, CA 94301
+
+[m] 415-471-5267  | hburke@salesforce.com <kluetto@salesforce.com>

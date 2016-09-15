@@ -1,0 +1,28 @@
+Re: [Release Update] Office365
+"Q. Hu" <qhu@salesforce.com>
+1472599049000
+BOOM! -- Qixiu Hu | SalesforceIQ | 502 Emerson Street, Palo Alto, CA 94301 | qhu@salesforce.com On Aug 30, 2016, at 4:14 PM, Alexandra Moser &lt;amoser@salesforce.com&gt; wrote: What: Office365 as a
+BOOM!
+
+--
+Qixiu Hu | SalesforceIQ <https://www.salesforceiq.com/> | 502 Emerson Street, Palo Alto, CA 94301 | qhu@salesforce.com <mailto:qhu@salesforce.com>
+> On Aug 30, 2016, at 4:14 PM, Alexandra Moser <amoser@salesforce.com> wrote:
+> 
+> What:  Office365 as a separate data source
+> 
+> <image.png>
+> 
+> Why: There are a few major benefits - 
+> Easier sign up flow (Oauth like Gmail)
+> More secure connection 
+> Solves issue with Exchange accounts disconnecting
+> Office365 is growing in popularity - expect it to be a common email server type going forward
+> When:  Today!  100% External
+> 
+> Any Issues?  Submit any bugs to bugs@relateiq.com <mailto:bugs@relateiq.com>Big thanks to the one-man team of Jackson Sharf!  Also thank you to Shardul & team for building the back end, and Hang for designs.
+> 
+> -- 
+> Alexandra Moser
+> SalesforceIQ Senior Product Manager
+> 502 Emerson Street | Palo Alto, CA 94301
+> 203.645.0834 <> | amoser@salesforce.com <mailto:amoser@salesforce.com>

@@ -1,0 +1,55 @@
+Re: Inbox desktop team on debt day tmr
+Robert Ames <rames@salesforce.com>
+1472594312000
+To clarify we won&#39;t be getting all of those... most of that board is solely tracking. Target is items from below (smaller stuff, debt day... every couple weeks we try to tackle stuff). --Robert INB
+To clarify we won't be getting all of those... most of that board is solely
+tracking.  Target is items from below (smaller stuff, debt day... every
+couple weeks we try to tackle stuff).
+
+--Robert
+
+INB-7714 Better logging strategy
+INB-8661 Log ta, tv, tc => reconstruct user click flows
+INB-7713 Report bug button: grab client configuration + latest logs + dom
+structure
+INB-7718 Upgrade chrome package: use cookie
+INB-2310 Move all bare HTML templates into appropriate modules
+INB-7751 Check Sass build to remove double inclusion of UIQ
+INB-8790 fix "build limit file size"
+INB-8952 top-level .iq-outlook, .iq-gmail, modify example.scss
+INB-9096 Log chrome version # with every tracking event
+
+
+On Tue, Aug 30, 2016 at 2:43 PM, Ryan DeForest <rdeforest@salesforce.com>
+wrote:
+
+> Pretty excited to see Cookie Split and "Network not available" on there!
+>
+> Let me know if you guys need anything.
+>
+> Best,
+> DeForest
+>
+> On Tue, Aug 30, 2016 at 1:53 PM, Keven Wang <keven@salesforceiq.com>
+> wrote:
+>
+>> Inbox web team will be on debt day tomorrow.
+>>
+>>
+>> For those interested, here're the tasks we plan to tackle:
+>> https://jira.salesforceiq.com/secure/RapidBoard.
+>> jspa?rapidView=162&projectKey=INB&view=planning&selectedIssue=INB-7714
+>>
+>> We will be in Santana in 117. Come say hi! (Or on hangout:
+>> https://hangouts.google.com/hangouts/_/salesforce.com/desktop-debt)
+>>
+>
+>
+>
+> --
+> *Ryan DeForest*
+> *SalesforceIQ <https://www.salesforceiq.com/>:* Smarter Selling, Better
+> Relationships.
+> 502 Emerson Street | Palo Alto, CA 94301
+> [o] 65 <650.409.2334>0.903.7003 | rdeforest@salesforce.com
+>

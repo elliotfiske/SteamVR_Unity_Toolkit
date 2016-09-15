@@ -1,0 +1,66 @@
+Re: Salesforce's PredictionIO Talks - Aug 25 and 31 [part of Einstein]
+Simon Chan <simon@salesforce.com>
+1472674998000
+Hello everyone, The video recording of the first talk is out! Introducing Apache PredictionIO @ Salesforce Rincon Center https://www.youtube.com/watch?v=OhqBECqifhA Speaker: Donald Szeto, prior CTO of
+Hello everyone,
+
+The video recording of the first talk is out!
+
+*Introducing Apache PredictionIO *@ Salesforce Rincon Center
+https://www.youtube.com/watch?v=OhqBECqifhA
+Speaker: Donald Szeto, prior CTO of PredictionIO, now Salesforce Tech Lead.
+
+
+As a side note, MapR, the enterprise hadoop vendor, published an official
+article on "How to Integrate* Apache PredictionIO* with *MapR* for *Actionable
+Machine Learning*" today.
+https://www.mapr.com/blog/how-integrate-apache-predictionio-
+mapr-actionable-machine-learning
+
+
+Regards,
+Simon
+Einstein Platform
+
+
+On Thu, Aug 18, 2016 at 3:53 PM, Simon Chan <simon@salesforce.com> wrote:
+
+> Hi guys,
+>
+> Salesforce acquired PredictionIO earlier this year --  ranked by Github
+> the #1 open-source spark-based ML server. I have received a lot of
+> interest about our product and technology. IQ Cloud (Einstein) is
+> co-organizing 2 public talks for everyone inside and outside Salesforce to
+> get a deeper understanding of PredictionIO.
+>
+> In Talk #1, Donald Szeto will present an overview of PredictionIO and its
+> future roadmap:
+>
+> *Introducing Apache PredictionIO*
+> Venue: Salesforce, 101 Spear St, Rincon Center , San Francisco, CA
+> Date: Aug 25, 2016 (Thu) - 6:30pm
+> co-organized with Bay Area Spark Meetup
+> Details & Registration: http://www.meetup.com/spark-users/events/23242
+> 8471/
+>
+> In Talk #2, Marco Vivero will demo how to use PredictionIO to build an
+> intelligent app:
+>
+> *Predicting Customer Satisfaction Using Text Features with Apache
+> PredictionIO*
+> Venue: Heroku, 650 7th St, San Francisco, CA
+> Date: August 31, 2016 (Wed) - 6:30pm
+> co-organized with SF Bayarea Machine Learning Meetup
+> Details & Registration: https://www.meetup.com/SF-Bayarea-Machine-Lear
+> ning/events/233433629/
+>
+>
+> I strongly encourage everyone who want to learn more about PredictionIO to
+> attend these talks. (We'll try to do video recording as well.). Please
+> also forward it to anyone you know who may be interested. Thanks!
+>
+>
+> Regards,
+> Simon
+> Co-Founder, PredictionIO
+>

@@ -1,0 +1,58 @@
+Re: Priority Bugs 8/22-8/26
+Krishna Kolapalli <kkolapalli@salesforce.com>
+1472072418000
+Team, I have to appreciate everyone for the incredible job in bug fixing this week. By mid-week we only have 5 bugs(4-Madhav, 1 -Percy) If you want DTBG look into upcoming bugs for next week. You can
+*Team,*
+
+I have to appreciate everyone for the incredible job in bug fixing this
+week. By mid-week we only have 5 bugs(4-Madhav, 1 -Percy)
+
+If you want* DTBG *look into upcoming bugs for next week.
+
+You can find upcoming next week bugs assigned to you here
+<https://jira.salesforceiq.com/issues/?filter=11302&jql=project%20%3D%20INB%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(%22To%20Do%22%2C%20Reopened%2C%20%22In%20Progress%22)%20AND%20priority%20in%20(P2%2C%20P1%2C%20P0%2C%20%22Code%20Red%22)%20AND%20due%20%3C%3D%2010d%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20due%20ASC%2C%20assignee%20ASC>
+.
+
+Let me know if you have any questions.
+
+On Mon, Aug 22, 2016 at 3:05 PM, Krishna Kolapalli <
+kkolapalli@salesforce.com> wrote:
+
+> *Team,*
+>
+> Great job everyone last week in fixing the bugs within SLA. We have total
+> of 25 this week including 2 overdue assigned to Madhav. Please look into
+> these bugs at earliest
+>
+> Bugs Assigned to you this week found here
+> <https://jira.salesforceiq.com/issues/?filter=11302&jql=project%20%3D%20INB%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(%22To%20Do%22%2C%20Reopened%2C%20%22In%20Progress%22)%20AND%20priority%20in%20(P2%2C%20P1%2C%20P0%2C%20%22Code%20Red%22)%20AND%20due%20%3C%3D%205d%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20assignee%20ASC%2C%20due%20ASC>
+> .
+>
+> Byron, David, Eli, Hiro, Seth, Shardul, Zack - 1 Each
+> Evan, Keven, Patrick, Percy, Sy - 2 Each
+> Madhav - 8
+>
+>
+> *Note: *I have gone through every single bug in our Inbox project and
+> assigned P1/P2. Some of them are de-prioritized as "Low Priority" which are
+> moved to "XXX Low Priority" bucket. We have a total of 151 Bugs with
+> priority( P1- 79, P2 - 72) at this point. Please keep working on fixing
+> these in upcoming weeks and months. After few months we may have less
+> number of bugs compared to now.
+>
+> --
+>
+>
+> KoalaTeam,
+> Krishna | 510.541.1902
+> *SalesforceIQ*
+>
+
+
+
+-- 
+
+
+KoalaTeam,
+Krishna | 510.541.1902
+*SalesforceIQ*

@@ -1,0 +1,89 @@
+Re: Jessica Roth posted in the group Cloud: Selling SalesforceIQ
+Fabian Frank <ffrank@salesforce.com>
+1473279007000
+The relevant roadmap item for this is &quot;ContactsIQ Image Endpoints Across Clients&quot;. What we have to do is, for Sales cloud users, change all places in all apps where we pull in an image and
+The relevant roadmap item for this is "ContactsIQ Image Endpoints Across
+Clients". What we have to do is, for Sales cloud users, change all places
+in all apps where we pull in an image and use ContactIQ instead of the CRM
+Person store to get the image data.
+
+https://jira.salesforceiq.com/secure/StructureBoard.jspa?s=2#
+
+Regards,
+Fabian
+
+
+On Wed, Sep 7, 2016 at 12:53 PM, Robert Lorenzen <rlorenzen@salesforce.com>
+wrote:
+
+> FYI – We keep hearing this feedback from the field.
+>
+> Users don't like their photo and want to change it.
+>
+> ---------- Forwarded message ---------
+> From: Jessica Roth in salesforce.com <reply@chatter.salesforce.com>
+> Date: Wed, Sep 7, 2016 at 11:40 AM
+> Subject: Jessica Roth posted in the group Cloud: Selling SalesforceIQ
+> To: rlorenzen@salesforce.com <rlorenzen@salesforce.com>
+>
+>
+> I noticed that the IQ Inbox has changed today and is now pulling in photos
+> from Facebook. How can we change this so it pulls our pictures from Gmail
+> or LinkedIn? I also know the templates are now available, however we do not
+> have the option to change the Folder from where the templates are coming
+> from. Is this on the roadmap?
+>
+>
+>
+>
+>
+> [image: Jessica Roth]
+> <https://org62.my.salesforce.com/00530000007R355?fromEmail=1&s1oid=00D000000000062&s1nid=000000000000000&s1uid=0053000000BPA7x&s1ext=0&emkind=chatterPostNotification&emtm=1473273614432>
+>
+>    Cloud: Selling SalesforceIQ
+> <https://org62.my.salesforce.com/0F930000000LTFj?fromEmail=1&s1oid=00D000000000062&s1nid=000000000000000&s1uid=0053000000BPA7x&s1ext=0&emkind=chatterPostNotification&emtm=1473273614432>
+> — Jessica Roth
+> <https://org62.my.salesforce.com/00530000007R355?fromEmail=1&s1oid=00D000000000062&s1nid=000000000000000&s1uid=0053000000BPA7x&s1ext=0&emkind=chatterPostNotification&emtm=1473273614432>
+>
+>
+>
+> I noticed that the IQ Inbox has changed today and is now pulling in photos
+> from Facebook. How can we change this so it pulls our pictures from Gmail
+> or LinkedIn? I also know the templates are now available, however we do not
+> have the option to change the Folder from where the templates are coming
+> from. Is this on the roadmap?
+>
+> View/Comment
+> <https://org62.my.salesforce.com/0D50M00002r3w0K?fromEmail=1&s1oid=00D000000000062&s1nid=000000000000000&s1uid=0053000000BPA7x&s1ext=0&emkind=chatterPostNotification&emtm=1473273614432&OpenCommentForEdit=1>
+>   or *reply to this email*
+>
+>
+>
+>
+>
+>
+> Get the Salesforce1 App
+> [image: Download on the App Store]
+> <https://org62.my.salesforce.com/services/appstore/ios?fromEmail=1&s1oid=00D000000000062&s1nid=000000000000000&s1uid=0053000000BPA7x&s1ext=0&emkind=chatterPostNotification&emtm=1473273614432>
+> [image: Get it on Google Play]
+> <https://org62.my.salesforce.com/services/appstore/android?fromEmail=1&s1oid=00D000000000062&s1nid=000000000000000&s1uid=0053000000BPA7x&s1ext=0&emkind=chatterPostNotification&emtm=1473273614432>
+>
+> ------------------------------
+> You're receiving Cloud: Selling SalesforceIQ emails.
+>
+> To change or turn off salesforce.com email, log in
+> <https://org62.my.salesforce.com/_ui/core/feeds/notification/ChatterEmailSettings?setupid=CollaborationEmailSettings&selected_group=0F930000000LTFj&fromEmail=1&s1oid=00D000000000062&s1nid=000000000000000&s1uid=0053000000BPA7x&s1ext=0&emkind=chatterPostNotification&emtm=1473273614432>
+> as rlorenzen@salesforce.com.
+>
+> salesforce.com, inc. The Landmark at One Market, Suite 300 San Francisco,
+> CA 94105
+>
+> [image: salesforce.com]
+>
+>
+>
+
+
+
+-- 
+Sent with SalesforceIQ Inbox

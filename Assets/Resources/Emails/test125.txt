@@ -1,0 +1,111 @@
+App Cloud App of the Week — SNCF
+Adam Seligman <aseligman@salesforce.com>
+1472768167000
+Hi Elliot, Have you ever ridden a train in France? If so, you know just how amazing the French national railway is. Every day, 10 million rail passengers travel through the 3000 stations run by SNCF
+App Cloud App of the Week - SNCF
+
+
+
+Hi Elliot,
+
+
+
+Have you ever ridden a train in France? If so, you know just how amazing the French national railway is. Every day, 10 million rail passengers travel through the 3,000 stations run by SNCF Gares & Connexions and are transported to their destinations on one of the world's most sophisticated rail networks. But for all its efficiency, SNCF had little knowledge about its huge ridership or how to engage with it to build meaningful relationships. Furthermore, SNCF was drowning in a sea of lost items, and had no way to contact riders to help return their lost belongings. 
+
+
+
+A full view of the customer was the missing link. To help ensure all passengers get where they're going with their belongings, SNCF now depends on two apps built on the Salesforce platform for passenger ticketing and lost-and-found tracking. In addition, the company now has a robust database with a full view of its customers. 
+
+
+
+Learn how this amazing transportation innovator found Salesforce to be just the ticket on its path to becoming a customer company. 
+
+
+
+
+Adam Seligman
+
+EVP and GM, App Cloud, Salesforce
+
+
+French national railway takes passengers on an amazing app journey. 
+
+http://click.mail.salesforce.com/?qs=09ba36fd0c705c8575ceb76c4f287e1b95f33364ec99997bc04030d8a0ef4967 
+SNCF  (Societe Nationale des Chemins de Fer Francais)
+
+Segment: EBU
+Industry: Transportation
+Location: Saint-Denis, France
+Partners: Accenture
+Featured App: Lost-and-found and e-ticketing applications
+Results: 360-degree customer view, 800,000 customer records, and 95,000 items lost and found each year
+
+
+
+The Situation
+
+
+
+Every day, 10 million rail passengers ride through the 3,000 stations run by SNCF, the French national railroad. The rail system is well-loved by the French, and the SNCF team does everything it can to ensure riders have amazing experiences. But with such a robust and loyal customer base, SNCF struggled to get to know its riders more intimately. For the most part, SNCF operations did not have a way to collect data about its customers, and thus was not interacting with riders beyond their presence in the stations or on the trains. Due to privacy laws, the company could not access other databases to learn more about the individuals who ride its trains every day.
+
+
+
+So in 2012, SNCF set out on a journey to transform into a customer company. Arnaud Lutellier, the CIO of the Sky Connection division, began to identify ways to build a customer database and apps designed to engage directly with customers. These would address two immediate needs: how to return lost items to customers, and how to get to know commuters by having them build online accounts, all with a very customer-centric design approach. Lutellier saw that Salesforce was just the ticket.
+
+
+
+SNCF's old lost-and-found app was expensive and complicated to run. It also offered a poor customer experience for people attempting to retrieve any of the 95,000items misplaced in the system each year. By building a new lost-and-found app, the company would be able to learn who some of its customers are, as well as help connect riders with their lost belongings, makingthem extremely happy and appreciative. 
+
+
+
+Other circumstances complicated SNCF's situation: Unaccompanied bags discovered in train stations had to be handled very cautiously for fear of terrorist bombings. Even bags bearing name tags and phone numbers had to be destroyed by police if station agents were unable to reach the owners within 15 minutes. To reimagine the customer experience in this context, Lutellier's team turned to Force.com.
+
+The Apps
+
+
+
+To help ensure all passengers get where they're going with their belongings, Lutellier's team built a new lost-and-found app called Oboto. 
+
+
+
+The Oboto app allows customers to report lost belongings quickly and directly, while giving SNCF station agents the ability to view and respond to a dashboard of lost-and-found objects in real time. With a lean team of one project manager and three developers, the initial version of the app was built in just three months with Force.com and custom Apex code. The app is responsive and facilitates a very intuitive user experience, and employees can use Salesforce Identity to easily log in. Over the past three years, Oboto has gone through a few seamless upgrades, and the app is a huge hit with customers and employees alike. All of the customer data that is entered into Oboto is stored in Salesforce, and thus the SNCF team's journey with a customer CRM began.
+
+
+
+But the journey didn't stop there. In early 2016, SNCF introduced an 
+http://click.mail.salesforce.com/?qs=2b1a8cb42543aaa7c7da0e0f647bfa73add9114b43fd08a25fc2573f56dbbcc7 
+e-ticket app  that further enhances the usefulness of Oboto and grows the company's ability to get to know customers. Customers can now create an account online and buy digital train tickets using a personalized QR code on their mobile phones. The customer data syncs direction into Salesforce, helping employees gain even more visibility of its riders. Those same QR codes are also printed on luggage tags and stickers that are attached to belongings, ensuring employees can safely return lost items to their rightful owners. It took just four months to build the e-ticket website, and only two months to build the native mobile app with Force.com. All 20,000 SNCF employees use the mobile app on company-issued Android phones. 
+
+The Results
+
+
+
+The Oboto and e-ticket apps put SNCF on the fast track to becoming a customer company. There are now over 800,000 registered SNCF passengers, and as those numbers grow, the train system itself gets more secure. Found baggage with an e-ticket QR code on it is much safer for SNCF employees to handle because they can instantly identify the proper owner from the company's Salesforce database.
+
+
+
+This feature has become an integral component in France's counterterrorism efforts, helping to identify high-risk unmarked items. There have now been over 30,000 items lost, found, and safely returned to their owners. 
+
+Learn More
+
+http://click.mail.salesforce.com/?qs=fbe5c458c1a3d4b840efbade82408015751f606c9becc01efc55e61914f5da02 
+See Full Story 
+
+http://click.mail.salesforce.com/?qs=d850d558569054abd744b3d9539b5c1f1ab106268f7c673e479f7f9dfc4a7b1f 
+Customer Story Slide 
+
+http://click.mail.salesforce.com/?qs=642d238acdc6cb1d3097a102623dd1644f2f20da3c4beab10b6006234366a026 
+Company Website 
+
+http://click.mail.salesforce.com/?qs=a311d20f9179d2bc7bbca7ea34e2d28b7ef64ba94a68456a3053f922c5e7e710 
+More App Cloud Stories 
+
+http://click.mail.salesforce.com/?qs=834814bf316a248eba02c1017381fd8248215e3bab0cb991908f0e4f2acd158a 
+More App of the Weeks 
+
+http://click.mail.salesforce.com/?qs=d14673a159a36b152e17f2b3400c727887b4be4707a8043c2af07af288a08331 
+#AppCloudApp 
+
+
+
+
