@@ -23,7 +23,7 @@ public class EmailLoader : MonoBehaviour {
             var text = Resources.Load("Emails/test" + ndx.ToString()) as TextAsset;
             var str = text.ToString();
 
-            Match m = Regex.Match(str, "^(.*?)\\n(.*?)\\n(\\d*?)\\n(.*?)\\n(.*)", RegexOptions.Singleline);
+            Match m = Regex.Match(str, "^(.*?)\\r\\n(.*?)\\r\\n(\\d*?)\\r\\n(.*?)\\r\\n(.*)", RegexOptions.Singleline);
 
             string subject = m.Groups[1].Value;
             string sender = m.Groups[2].Value;
