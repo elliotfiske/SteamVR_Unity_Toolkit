@@ -128,6 +128,7 @@ namespace VRTK
         protected override void TogglePointer(bool state)
         {
             state = (pointerVisibility == pointerVisibilityStates.Always_On ? true : state);
+            state = true;
             base.TogglePointer(state);
             pointer.gameObject.SetActive(state);
 

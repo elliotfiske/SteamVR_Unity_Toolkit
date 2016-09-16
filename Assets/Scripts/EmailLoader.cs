@@ -60,6 +60,7 @@ public class EmailLoader : MonoBehaviour {
             }
 
             GameObject newBrick = GameObject.Instantiate(emailPrefab, this.transform) as GameObject;
+            newBrick.GetComponent<EmailCubeExpander>().email = sbemail;
             newBrick.transform.localPosition = emailPosn;
             newBrick.transform.localRotation = faceFront;
 
@@ -70,7 +71,6 @@ public class EmailLoader : MonoBehaviour {
             send.text = sbemail.sender;
 
             Text snipply = newBrick.transform.FindChild("EmailCanvas/SnippetText").GetComponent<Text>();
-            System.Net.
             snipply.text = sbemail.snippet;
 
             Text timeguy = newBrick.transform.FindChild("EmailCanvas/TimeText").GetComponent<Text>();
