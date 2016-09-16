@@ -5,13 +5,13 @@
     public class Gun : VRTK_InteractableObject
     {
         private GameObject bullet;
-        private float bulletSpeed = 1000f;
+        public float bulletSpeed = 1000f;
         private float bulletLife = 5f;
 
         public override void StartUsing(GameObject usingObject)
         {
             base.StartUsing(usingObject);
-            FireBullet();
+           // FireBullet();
         }
 
         protected override void Start()
@@ -19,10 +19,16 @@
             base.Start();
             bullet = transform.Find("Bullet").gameObject;
             bullet.SetActive(false);
+
+            GetComponentInParent<VRTK_ControllerEvents>().AliasUIClickOn += new ControllerInteractionEventHandler(FireBullet);
         }
 
-        private void FireBullet()
-        {
+        private void DoGrabOn(object sender, ControllerInteractionEventArgs e) {
+            print("HI THERE");
+        }
+
+
+        private void FireBullet(object sender, ControllerInteractionEventArgs e) {
             GameObject bulletClone = Instantiate(bullet, bullet.transform.position, bullet.transform.rotation) as GameObject;
             bulletClone.SetActive(true);
             Rigidbody rb = bulletClone.GetComponent<Rigidbody>();

@@ -13,19 +13,27 @@ public class EmailLoader : MonoBehaviour {
 
     List<Email> emails;
 
+    public void ResetPosn() { transform.position = new Vector3(-6.19f, 6.79f, 4.69f); }
+
+
 	// Use this for initialization
 	void Start () {
 
         emails = new List<Email>();
 
-        for (int ndx = 0; ndx < 320; ndx++) {
+        for (int ndx = 0; ndx < 60; ndx++) {
             var text = Resources.Load("Emails/test" + ndx.ToString()) as TextAsset;
+
+            if (text == null) {
+                continue;
+            }
+
             var str = text.ToString();
 
             Match m = Regex.Match(str, "^(.*?)\\r\\n(.*?)\\r\\n(\\d*?)\\r\\n(.*?)\\r\\n(.*)", RegexOptions.Singleline);
 
             string subject = m.Groups[1].Value;
-            string sender = m.Groups[2].Value;
+            string sender = ndx.ToString(); ;
 
             double date = Convert.ToDouble(m.Groups[3].Value);
             date /= 1000;
@@ -55,6 +63,7 @@ public class EmailLoader : MonoBehaviour {
 
                 GameObject newDay = GameObject.Instantiate(dayPrefab, this.transform) as GameObject;
                 newDay.transform.localPosition = emailPosn + new Vector3(0, 1, 0);
+                newDay.transform.localRotation = faceFront;
                 Text bleh = newDay.transform.FindChild("DayText").GetComponent<Text>();
                 bleh.text = String.Format("{0:dddd, MMMM d}", emailDay);
             }
@@ -79,10 +88,14 @@ public class EmailLoader : MonoBehaviour {
             emailPosn += new Vector3(0, -1.1f, 0);
         }
     }
-	
+
+    public Vector2 velocity;
+    public float friction = 0.9f;
+
 	// Update is called once per frame
 	void Update () {
-	
+        transform.Translate(velocity);
+        velocity *= friction;
 	}
 }
 

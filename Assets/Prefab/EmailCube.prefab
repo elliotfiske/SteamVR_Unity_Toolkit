@@ -40,6 +40,7 @@ GameObject:
   - 114: {fileID: 114000011158643158}
   - 114: {fileID: 114000013256332924}
   - 114: {fileID: 114000013962267228}
+  - 65: {fileID: 65000012610170518}
   m_Layer: 5
   m_Name: EmailCanvas
   m_TagString: Untagged
@@ -60,7 +61,7 @@ GameObject:
   - 23: {fileID: 23000013628640730}
   m_Layer: 0
   m_Name: CubeBG
-  m_TagString: Untagged
+  m_TagString: EmailBrick
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -158,7 +159,7 @@ Transform:
   m_GameObject: {fileID: 1000011832205872}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 0.13522}
+  m_LocalScale: {x: 1, y: 1, z: 4.0074854}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 4000011222678690}
@@ -171,7 +172,7 @@ Transform:
   m_GameObject: {fileID: 1000011841263018}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.49234372, y: 4.89, z: -2.9128041}
-  m_LocalScale: {x: 4, y: 1, z: 0.13522}
+  m_LocalScale: {x: 4, y: 1, z: 0.74}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 4000010606168032}
@@ -233,6 +234,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65000012610170518
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010539085376}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 813.6767, y: -74.84354, z: -43.49406}
+  m_Center: {x: -6.8742166, y: 41.886887, z: -0.49262455}
 --- !u!114 &114000010114721346
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -310,7 +323,7 @@ MonoBehaviour:
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
+    m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: 'This is the preview for what the contents of this email contain. How very
     very very exciting! I need a few more words becuase I think this can be a great
@@ -406,7 +419,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1000010539085376}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
   m_Name: 
@@ -574,7 +587,7 @@ RectTransform:
   m_GameObject: {fileID: 1000010539085376}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.61}
-  m_LocalScale: {x: 0.0012498546, y: 0.004999421, z: 0.12498553}
+  m_LocalScale: {x: 0.0012498546, y: 0.004999421, z: 0.00001}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 224000013518426032}

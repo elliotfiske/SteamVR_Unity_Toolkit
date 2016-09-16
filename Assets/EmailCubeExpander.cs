@@ -6,15 +6,16 @@ public class EmailCubeExpander : MonoBehaviour {
 
     public Email email;
     public bool expanded = false;
+    private Transform cubeTF;
 
 	// Use this for initialization
 	void Start () {
-	
+        cubeTF = transform.FindChild("CubeBG");
 	}
 	
 	// Update is called once per frame
 	void Update () {
-	
+        this.transform.position = cubeTF.position;
 	}
 
     public void ExpandMe() {
@@ -38,7 +39,7 @@ public class EmailCubeExpander : MonoBehaviour {
             yeah.y = newHeight;
             cuber.localScale = yeah;
 
-            manvas.GetComponent<RectTransform>().sizeDelta = new Vector2(763.7f, 187 + newHeight);
+            manvas.GetComponent<RectTransform>().sizeDelta = new Vector2(763.7f, 287 + newHeight);
             brexit.GetComponent<RectTransform>().sizeDelta = new Vector2(731.7f, newHeight);
             transform.Translate(0, 0, -1);
         }
